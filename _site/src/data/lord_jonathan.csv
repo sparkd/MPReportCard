@@ -1,0 +1,555 @@
+id,list_name,party,session,date,value,category,description,claim_number
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-13,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-20,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-26,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2012-08-07,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-23,11.65,travel,Food & Drink @ Parliament,0000168539
+4090,"Lord, Jonathan",Conservative,10_11,2010-07-29,37.9,general admin,Stationery Purchase,19283
+4090,"Lord, Jonathan",Conservative,10_11,2011-02-21,551.05,general admin,Stationery Purchase,71980
+4090,"Lord, Jonathan",Conservative,10_11,2010-11-25,82.25,general admin,Stationery Purchase,50907
+4090,"Lord, Jonathan",Conservative,10_11,2010-10-26,49.2,staffing,Public Tr RAIL Int/Volntr - RT,49009
+4090,"Lord, Jonathan",Conservative,10_11,2011-02-15,12.45,travel,Food & Drink @ Parliament,85871
+4090,"Lord, Jonathan",Conservative,10_11,2011-03-21,12.7,travel,Food & Drink @ Parliament,85875
+4090,"Lord, Jonathan",Conservative,10_11,2010-09-24,9900,staffing,Pooled Staffing Services,43634
+4090,"Lord, Jonathan",Conservative,10_11,2011-02-28,15,travel,Food & Drink @ Parliament,85875
+4090,"Lord, Jonathan",Conservative,10_11,2011-03-02,10.55,travel,Food & Drink @ Parliament,85875
+4090,"Lord, Jonathan",Conservative,10_11,2011-02-09,10.85,travel,Food & Drink @ Parliament,85864
+4090,"Lord, Jonathan",Conservative,10_11,2011-02-22,140.13,general admin,Telephone/Mobile Hire,71307
+4090,"Lord, Jonathan",Conservative,10_11,2010-09-30,263.21,general admin,Stationery Purchase,38855
+4090,"Lord, Jonathan",Conservative,10_11,2011-01-21,22.9,travel,Public Tr RAIL MP Staff - RTN,64287
+4090,"Lord, Jonathan",Conservative,10_11,2010-12-14,1200,general admin,Website - Design/Production,70126
+4090,"Lord, Jonathan",Conservative,10_11,2010-09-30,35,general admin,Other,38864
+4090,"Lord, Jonathan",Conservative,10_11,2011-03-08,15,travel,Food & Drink @ Parliament,85875
+4090,"Lord, Jonathan",Conservative,10_11,2011-02-16,10.6,travel,Food & Drink @ Parliament,85873
+4090,"Lord, Jonathan",Conservative,10_11,2010-09-30,400.61,general admin,Stationery Purchase,34963
+4090,"Lord, Jonathan",Conservative,10_11,2011-02-14,10.45,travel,Food & Drink @ Parliament,85866
+4090,"Lord, Jonathan",Conservative,10_11,2010-11-24,333.05,general admin,Stationery Purchase,50379
+4090,"Lord, Jonathan",Conservative,10_11,2010-11-08,61.1,staffing,Public Tr RAIL Int/Volntr - RT,50389
+4090,"Lord, Jonathan",Conservative,10_11,2011-02-08,15,travel,Food & Drink @ Parliament,85862
+4090,"Lord, Jonathan",Conservative,10_11,2011-03-01,10.8,travel,Food & Drink @ Parliament,85875
+4090,"Lord, Jonathan",Conservative,10_11,2010-11-30,146.88,miscellaneous expenses,Contingency,64698
+4090,"Lord, Jonathan",Conservative,10_11,2010-09-27,254.2,general admin,Telephone/Mobile Hire,33684
+4090,"Lord, Jonathan",Conservative,10_11,2011-02-01,15,travel,Food & Drink @ Parliament,85860
+4090,"Lord, Jonathan",Conservative,10_11,2011-03-15,15,travel,Food & Drink @ Parliament,85875
+4090,"Lord, Jonathan",Conservative,10_11,2010-11-22,216.25,general admin,Stationery Purchase,49775
+4090,"Lord, Jonathan",Conservative,10_11,2011-03-11,8,travel,Public Tr RAIL MP Staff - RTN,93958
+4090,"Lord, Jonathan",Conservative,10_11,2011-01-31,7.65,travel,Food & Drink @ Parliament,85850
+4090,"Lord, Jonathan",Conservative,10_11,2010-11-09,10.9,staffing,Food & Drink Intern/Volunteer,50389
+4090,"Lord, Jonathan",Conservative,10_11,2010-12-20,130,miscellaneous expenses,Contingency,64700
+4090,"Lord, Jonathan",Conservative,10_11,2010-09-09,272.01,general admin,Stationery Purchase,29223
+4090,"Lord, Jonathan",Conservative,10_11,2010-10-26,19.2,staffing,Food & Drink Intern/Volunteer,49009
+4090,"Lord, Jonathan",Conservative,10_11,2010-09-14,577.5,staffing,Pooled Staffing Services,29952
+4090,"Lord, Jonathan",Conservative,10_11,2010-11-10,7.4,travel,Public Tr BUS Int/Volntr,50389
+4090,"Lord, Jonathan",Conservative,10_11,2010-09-13,3300,staffing,Pooled Staffing Services,29640
+4090,"Lord, Jonathan",Conservative,11_12,2011-11-07,11.05,travel,Food & Drink @ Parliament,0000133008
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-10,10.25,travel,Food & Drink @ Parliament,0000152928
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-13,15,travel,Food & Drink @ Parliament,0000140927
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-10,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-06,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-13,15,travel,Food & Drink @ Parliament,0000165041
+4090,"Lord, Jonathan",Conservative,11_12,2011-11-08,10.65,travel,Food & Drink @ Parliament,0000133008
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-07,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-05,15,travel,Food & Drink @ Parliament,0000156658
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-24,11.7,travel,Food & Drink @ Parliament,0000152928
+4090,"Lord, Jonathan",Conservative,11_12,2011-05-17,12.5,travel,Food & Drink @ Parliament,93959
+4090,"Lord, Jonathan",Conservative,11_12,2011-04-07,157.3,office costs,Mobile Usage/Rental,83269
+4090,"Lord, Jonathan",Conservative,11_12,2011-09-05,8.65,travel,Food & Drink @ Parliament,116824
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-15,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-31,11.2,travel,Food & Drink @ Parliament,127550
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-16,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-06-21,10.95,travel,Food & Drink @ Parliament,105739
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-25,15,travel,Food & Drink @ Parliament,127550
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-16,8.45,travel,Public Tr RAIL MP Staff - RTN,0000176837
+4090,"Lord, Jonathan",Conservative,11_12,2012-02-01,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-07,84,office costs,Stationery Purchase,0000140919
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-17,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-02-21,13,travel,Food & Drink @ Parliament,0000156658
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-19,13.05,travel,Own Car MP,0000141390
+4090,"Lord, Jonathan",Conservative,11_12,2011-06-20,10.55,travel,Food & Drink @ Parliament,105739
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-16,15,travel,Food & Drink @ Parliament,0000152928
+4090,"Lord, Jonathan",Conservative,11_12,2011-11-14,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-05-03,15,travel,Food & Drink @ Parliament,89075
+4090,"Lord, Jonathan",Conservative,11_12,2011-09-13,15,travel,Food & Drink @ Parliament,125029
+4090,"Lord, Jonathan",Conservative,11_12,2012-02-02,70.8,office costs,Telephone/Mobile Hire,0000150942
+4090,"Lord, Jonathan",Conservative,11_12,2011-09-09,85.75,office costs,Stationery Purchase,0000133018
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-18,15,travel,Food & Drink @ Parliament,125029
+4090,"Lord, Jonathan",Conservative,11_12,2012-02-01,400.65,office costs,Stationery Purchase,0000150982
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-01,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-09-27,70.8,office costs,Telephone/Mobile Hire,0000133005
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-07,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-02-08,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-12,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-25,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-02-29,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-20,15,travel,Food & Drink @ Parliament,0000165041
+4090,"Lord, Jonathan",Conservative,11_12,2011-11-29,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-05,9.85,travel,Food & Drink @ Parliament,0000140927
+4090,"Lord, Jonathan",Conservative,11_12,2011-11-25,46,office costs,Postage Purchase,0000152909
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-12,10.65,travel,Food & Drink @ Parliament,0000140927
+4090,"Lord, Jonathan",Conservative,11_12,2011-09-29,35,office costs,Other,0000132989
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-19,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2011-04-26,15,travel,Food & Drink @ Parliament,85875
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-24,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-05,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-11-14,15,travel,Food & Drink @ Parliament,0000133016
+4090,"Lord, Jonathan",Conservative,11_12,2011-08-11,11,travel,Food & Drink @ Parliament,116824
+4090,"Lord, Jonathan",Conservative,11_12,2012-02-07,11.5,travel,Food & Drink @ Parliament,0000152928
+4090,"Lord, Jonathan",Conservative,11_12,2012-02-02,70.8,office costs,Telephone/Mobile Hire,0000150942
+4090,"Lord, Jonathan",Conservative,11_12,2011-06-01,9900,staffing,Pooled Staffing Services,105742
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-11,15,travel,Food & Drink @ Parliament,125029
+4090,"Lord, Jonathan",Conservative,11_12,2011-09-27,76.26,office costs,Telephone/Mobile Hire,0000133005
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-21,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2011-07-07,216.13,office costs,Telephone/Mobile Hire,105099
+4090,"Lord, Jonathan",Conservative,11_12,2011-09-06,9.85,travel,Food & Drink @ Parliament,116824
+4090,"Lord, Jonathan",Conservative,11_12,2011-09-12,15,travel,Food & Drink @ Parliament,116824
+4090,"Lord, Jonathan",Conservative,11_12,2011-11-23,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-30,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-24,15,travel,Food & Drink @ Parliament,127550
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-13,13.05,travel,Own Car MP,0000141390
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-31,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-05-04,150,travel,Hotel Late Sitting > 1.00,89083
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-06,213.57,office costs,Payment Telephone/Mobile,0000140920
+4090,"Lord, Jonathan",Conservative,11_12,2011-06-13,10.55,travel,Food & Drink @ Parliament,99036
+4090,"Lord, Jonathan",Conservative,11_12,2011-11-13,56.93,office costs,Stationery Purchase,0000133018
+4090,"Lord, Jonathan",Conservative,11_12,2011-09-08,636,office costs,Legal Expenses Insurance,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-20,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-14,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2011-06-15,15.9,general admin,Other,99029
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-05,210.79,office costs,Stationery Purchase,0000140907
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-19,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-04-07,84,office costs,Stationery Purchase,83637
+4090,"Lord, Jonathan",Conservative,11_12,2011-04-06,219.32,office costs,Stationery Purchase,83644
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-20,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-02-28,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-11,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-09-29,84,office costs,Stationery Purchase,0000132998
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-10,13.05,travel,Own Car MP,0000141390
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-19,6.3,travel,Food & Drink @ Parliament,127550
+4090,"Lord, Jonathan",Conservative,11_12,2012-02-07,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-12,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2011-06-28,10.15,travel,Food & Drink @ Parliament,105739
+4090,"Lord, Jonathan",Conservative,11_12,2011-05-16,10.65,travel,Food & Drink @ Parliament,93959
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-11,13.05,travel,Own Car MP,0000141390
+4090,"Lord, Jonathan",Conservative,11_12,2011-11-30,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-26,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2011-04-01,8,travel,Public Tr RAIL MP Staff - RTN,93958
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-19,15,travel,Food & Drink @ Parliament,0000165041
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-26,11.2,travel,Food & Drink @ Parliament,0000165041
+4090,"Lord, Jonathan",Conservative,11_12,2012-02-01,321.71,office costs,Stationery Purchase,0000150989
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-14,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-10,10,travel,Food & Drink @ Parliament,125029
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-01,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2011-07-04,820.78,general admin,Stationery Purchase,105080
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-23,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-07,1200,office costs,Website - Hosting,0000155352
+4090,"Lord, Jonathan",Conservative,11_12,2011-10-18,13.05,travel,Own Car MP,0000141390
+4090,"Lord, Jonathan",Conservative,11_12,2011-05-09,9.45,travel,Food & Drink @ Parliament,90196
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-23,11.7,travel,Food & Drink @ Parliament,0000152928
+4090,"Lord, Jonathan",Conservative,11_12,2011-12-08,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-27,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2011-06-03,3960,office costs,Professional Services,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,11_12,2012-01-30,15,travel,Food & Drink @ Parliament,0000152928
+4090,"Lord, Jonathan",Conservative,11_12,2011-04-05,46,office costs,Postage Purchase,89078
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-05,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,11_12,2011-11-22,13.05,travel,Own Car MP,0000151721
+4090,"Lord, Jonathan",Conservative,11_12,2012-03-06,11.9,travel,Food & Drink @ Parliament,0000156658
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-15,15,travel,Food & Drink @ Parliament,0000215543
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-27,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-19,70.8,office costs,Tel/Mobile Purchase,0000168526
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-24,13.8,travel,Food & Drink @ Parliament,0000168539
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-19,70.8,office costs,Tel/Mobile Purchase,0000168526
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-19,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-20,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-16,15,travel,Food & Drink @ Parliament,0000200000
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-19,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-19,70.8,office costs,Tel/Mobile Purchase,0000168526
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-16,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-18,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-19,84,office costs,Stationery Purchase,0000168535
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-16,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-12,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-06,11.9,travel,Food & Drink @ Parliament,0000244457
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-14,15,travel,Food & Drink @ Parliament,0000236843
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-05,153.29,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-19,110,office costs,Postage Purchase,0000228521
+4090,"Lord, Jonathan",Conservative,12_13,2012-09-20,77.98,office costs,Const Office Tel. Usage/Rental,0000215577
+4090,"Lord, Jonathan",Conservative,12_13,2012-09-11,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-10,11.15,travel,Food & Drink @ Parliament,0000191907
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-18,9900,staffing,Pooled Services,0000177337
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-14,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-11,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-23,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-08,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-07,3960,office costs,Professional Services: Direct,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-19,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-17,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-17,71.82,office costs,Const Office Tel. Usage/Rental,0000199991
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-26,85.75,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-25,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-04,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-17,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-04,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-17,70.8,office costs,Const Office Tel. Usage/Rental,0000199991
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-26,644.95,office costs,Computer HW Purchase,0000228746
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-24,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-05,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-06,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-26,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-16,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-09-20,70.8,office costs,Const Office Tel. Usage/Rental,0000215577
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-04,71.11,office costs,Const Office Tel. Usage/Rental,0000242670
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-09,15,travel,Food & Drink @ Parliament,0000191907
+4090,"Lord, Jonathan",Conservative,12_13,2012-09-12,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-18,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-04,15,travel,Food & Drink @ Parliament,0000253882
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-16,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-17,15,travel,Food & Drink @ Parliament,0000168539
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-22,15,travel,Food & Drink @ Parliament,0000183554
+4090,"Lord, Jonathan",Conservative,12_13,2012-09-20,84,office costs,Stationery Purchase,0000215580
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-31,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-16,15,travel,Food & Drink @ Parliament,0000168539
+4090,"Lord, Jonathan",Conservative,12_13,2012-08-10,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-10,15,travel,Food & Drink @ Parliament,0000228515
+4090,"Lord, Jonathan",Conservative,12_13,2012-09-11,15,travel,Food & Drink @ Parliament,0000215543
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-30,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-09,35,office costs,Other,0000215573
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-25,10.85,travel,Food & Drink @ Parliament,0000261038
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-06,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-17,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-06,11.9,travel,Food & Drink @ Parliament,0000244457
+4090,"Lord, Jonathan",Conservative,12_13,2012-09-05,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-11,11.95,travel,Food & Drink @ Parliament,0000183554
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-30,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-13,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-14,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-25,15,travel,Food & Drink @ Parliament,0000191907
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-25,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-12,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-10,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-11,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-09,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-05,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-18,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-25,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-16,83.59,office costs,Stationery Purchase,0000199985
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-16,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-17,70.8,office costs,Const Office Tel. Usage/Rental,0000199991
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-16,83.59,office costs,Stationery Purchase,0000199985
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-26,10.57,office costs,Other Equip Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-24,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-08,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-01,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-26,15,travel,Food & Drink @ Parliament,0000191907
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-18,15,travel,Food & Drink @ Parliament,0000168539
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-20,8.45,travel,Public Tr RAIL MP Staff - RTN,0000176837
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-20,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-11,15,travel,Food & Drink @ Parliament,0000253882
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-27,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-17,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-24,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-04,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-29,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-26,13.98,office costs,Stationery Purchase,0000242707
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-26,139.26,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-25,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-13,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-05,123.53,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-18,15,travel,Food & Drink @ Parliament,0000253882
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-30,85.1,office costs,Recruitment Services,0000184332
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-10,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-21,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-29,48.6,staffing,Public Tr RAIL Other Int/Volnt,0000235928
+4090,"Lord, Jonathan",Conservative,12_13,2012-09-04,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-13,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-28,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-02,13.8,travel,Food & Drink @ Parliament,0000191907
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-19,495.78,office costs,Stationery Purchase,0000168531
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-04,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-15,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-28,15,travel,Food & Drink @ Parliament,0000242701
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-29,15,travel,Food & Drink @ Parliament,0000215543
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-12,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-23,15.91,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-12,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2012-08-09,604.2,office costs,Legal Expenses Insurance,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-21,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-21,15,travel,Food & Drink @ Parliament,0000236843
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-10,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-04,71.69,office costs,Const Office Tel. Usage/Rental,0000242670
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-11,44.91,office costs,Stationery Purchase,0000228521
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-03,10.9,travel,Food & Drink @ Parliament,0000191907
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-26,6.36,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-19,11.35,travel,Food & Drink @ Parliament,0000191907
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-17,15,travel,Food & Drink @ Parliament,0000240802
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-14,40.94,office costs,Stationery Purchase,0000253886
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-26,85.75,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-14,1200,office costs,Website - Hosting,0000236775
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-25,15,travel,Food & Drink @ Parliament,0000253882
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-12,13.7,travel,Food & Drink @ Parliament,0000228515
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-18,160.9,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-11,70.8,office costs,Const Office Tel. Usage/Rental,0000253848
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-23,5.1,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-05,13,travel,Food & Drink @ Parliament,0000228515
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-04,7.2,office costs,Postage Purchase,0000200005
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-23,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-26,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-07,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-07,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-09,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-26,15,travel,Food & Drink @ Parliament,0000228515
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-24,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-19,15,travel,Food & Drink @ Parliament,0000228515
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-12,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-09,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-03,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-28,70.8,office costs,Const Office Tel. Usage/Rental,0000253848
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-06,10.2,travel,Food & Drink @ Parliament,0000253882
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-29,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-13,15,travel,Food & Drink @ Parliament,0000253882
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-22,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-26,51.26,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-08,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-11,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-23,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-05,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-12,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-04-26,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-04,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-05-15,13.05,travel,Own Vehicle Car,0000176921
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-05,13.98,office costs,Stationery Purchase,0000203623
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-06,7.54,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-28,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-04,73.19,office costs,Const Office Tel. Usage/Rental,0000242670
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-05,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-17,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-21,25.9,office costs,Computer HW Purchase,0000191072
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-19,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-05,153.29,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-04,1.28,office costs,Postage Purchase,0000200005
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-05,153.29,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-10-15,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-02,13.05,travel,Own Vehicle Car,0000199974
+4090,"Lord, Jonathan",Conservative,12_13,2012-08-12,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-27,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-26,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-06-12,8.1,travel,Food & Drink @ Parliament,0000183554
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-13,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-27,84,office costs,Stationery Purchase,0000253889
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-06,58.06,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-12,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-14,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-09-03,13.05,travel,Own Vehicle Car,0000216978
+4090,"Lord, Jonathan",Conservative,12_13,2013-02-11,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2013-01-22,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2012-07-26,85.75,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,12_13,2012-11-29,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,12_13,2013-03-07,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,12_13,2012-12-13,13.05,travel,Own Vehicle Car,0000242711
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-12,0.43,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-14,11.7,travel,Food & Drink @ Parliament,306311
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-22,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-12,0.05,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-02,0.18,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-07,70.8,office costs,Const Office Tel. Usage/Rental,0000276091
+4090,"Lord, Jonathan",Conservative,13_14,2014-02-03,15.00,travel,Food & Drink @ Parliament,0000346022
+4090,"Lord, Jonathan",Conservative,13_14,2014-03-25,156.01,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-20,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-01,15,travel,Food & Drink @ Parliament,0000291423
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-24,15,travel,Food & Drink @ Parliament,0000278817
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-20,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-24,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,13_14,2013-12-11,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-17,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-02,11.65,travel,Food & Drink @ Parliament,0000291423
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-07,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-21,11.65,travel,Food & Drink @ Parliament,0000278817
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-26,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-12,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-08,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-18,0.05,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-09,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-04,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-12,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-16,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-23,35,office costs,Other,306305
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-10,15,travel,Food & Drink @ Parliament,0000261038
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-13,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-18,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2014-02-05,71.26,office costs,Const Office Tel. Usage/Rental,0000346680
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-20,15,travel,Food & Drink @ Parliament,0000278817
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-22,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-12,15.5,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-05,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-27,15.00,travel,Food & Drink @ Parliament,0000346022
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-08,15,travel,Food & Drink @ Parliament,306311
+4090,"Lord, Jonathan",Conservative,13_14,2013-08-19,2.14,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-08,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-22,15,travel,Food & Drink @ Parliament,0000261038
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-15,9.8,travel,Food & Drink @ Parliament,0000291423
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-02,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2014-03-25,3.46,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-27,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-07,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-03,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-23,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-25,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-25,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-07,102.52,office costs,Stationery Purchase,Payment to supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-24,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-02,15,travel,Food & Drink @ Parliament,306311
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-09,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-12,154.15,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-24,7750,office costs,Const Office Rent,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-12-03,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-06,84,office costs,Stationery Purchase,0000276091
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-09,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-01,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-08-19,120,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2014-03-25,96.28,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-22,60,office costs,Postage Purchase,0000318146
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-11,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-06,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-14,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-08,11.55,travel,Food & Drink @ Parliament,0000278817
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-10,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-09,15,travel,Food & Drink @ Parliament,306311
+4090,"Lord, Jonathan",Conservative,13_14,2013-12-09,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-11,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-08-19,62.16,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-15,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-28,70.82,office costs,Const Office Tel. Usage/Rental,307953
+4090,"Lord, Jonathan",Conservative,13_14,2013-08-15,70.8,office costs,Const Office Tel. Usage/Rental,0000291376
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-10,8.8,travel,Public Tr RAIL MP Staff - RTN,0000265455
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-12,96.28,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2014-02-05,71.56,office costs,Const Office Tel. Usage/Rental,0000346680
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-30,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-05,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-17,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-16,9.85,travel,Food & Drink @ Parliament,0000291423
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-25,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2014-02-24,15.00,travel,Food & Drink @ Parliament,0000346022
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-10,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-11,15,travel,Food & Drink @ Parliament,0000318156
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-13,15,travel,Food & Drink @ Parliament,0000329317
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-14,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2014-02-05,70.80,office costs,Const Office Tel. Usage/Rental,0000346680
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-20,12.60,travel,Food & Drink @ Parliament,0000346022
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-16,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-06,20.59,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-02,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-22,1.4,travel,Parking,0000291423
+4090,"Lord, Jonathan",Conservative,13_14,2013-12-16,12,travel,Food & Drink @ Parliament,0000329317
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-15,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-17,10.85,travel,Food & Drink @ Parliament,0000278817
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-06,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-22,10.1,travel,Food & Drink @ Parliament,306311
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-18,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-21,23.99,office costs,Stationery Purchase,0000291426
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-06,9900,staffing,Pooled Services,0000270467
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-06,11.3,travel,Food & Drink @ Parliament,0000318156
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-30,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-17,15,travel,Food & Drink @ Parliament,0000261038
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-06,15,travel,Food & Drink @ Parliament,0000329317
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-04,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-08-19,62.16,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-12-02,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-02,91,office costs,Const Office Tel. Usage/Rental,306300
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-06,14.3,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-15,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-12,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-03,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-12-02,15,travel,Food & Drink @ Parliament,0000318156
+4090,"Lord, Jonathan",Conservative,13_14,2014-02-28,13.70,travel,Public Tr RAIL MP Staff - RTN,0000349939
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-22,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-12-16,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-05,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2014-03-25,96.28,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-12-18,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-12-09,11.9,travel,Food & Drink @ Parliament,0000318156
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-28,70.8,office costs,Const Office Tel. Usage/Rental,307953
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-26,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-23,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-03,15,travel,Food & Drink @ Parliament,306311
+4090,"Lord, Jonathan",Conservative,13_14,2014-03-25,5.68,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-11,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-15,15,travel,Food & Drink @ Parliament,0000261038
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-15,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-10,15,travel,Food & Drink @ Parliament,0000291423
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-14,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-21,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-19,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-08,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2014-03-25,0.58,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2014-02-10,15.00,travel,Food & Drink @ Parliament,0000346022
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-28,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-08-15,70.92,office costs,Const Office Tel. Usage/Rental,0000291376
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-10,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-07,96.28,office costs,Stationery Purchase,Payment to supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-24,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2014-02-12,15.00,travel,Food & Drink @ Parliament,0000346022
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-03,12.45,travel,Food & Drink @ Parliament,0000278817
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-12,96.28,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-10,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-16,10.7,travel,Food & Drink @ Parliament,0000261038
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-29,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-02,35.26,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-16,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-12,96.28,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-19,8.8,travel,Public Tr RAIL MP Staff - RTN,0000265447
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-05,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-08,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-05-07,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-08-19,62.16,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-28,15,travel,Food & Drink @ Parliament,0000318156
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-03,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-09-11,11.45,travel,Food & Drink @ Parliament,306311
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-07,70.97,office costs,Const Office Tel. Usage/Rental,0000276091
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-24,13.70,travel,Public Tr RAIL MP Staff - RTN,0000349939
+4090,"Lord, Jonathan",Conservative,13_14,2013-04-18,13.05,travel,Own Vehicle Car,0000260986
+4090,"Lord, Jonathan",Conservative,13_14,2013-08-09,577.7,office costs,Legal Expenses Insurance,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2014-01-06,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-08-29,15,travel,Food & Drink @ Parliament,306311
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-02,5.3,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-08-29,13.05,travel,Own Vehicle Car,305238
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-29,15,travel,Food & Drink @ Parliament,0000318156
+4090,"Lord, Jonathan",Conservative,13_14,2013-12-10,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-07-02,0.05,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-24,13.05,travel,Own Vehicle Car,0000284860
+4090,"Lord, Jonathan",Conservative,13_14,2013-12-17,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-31,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-10-29,13.05,travel,Own Vehicle Car,0000329311
+4090,"Lord, Jonathan",Conservative,13_14,2013-06-05,3960,office costs,Professional Services: Direct,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2013-11-18,11.77,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,13_14,2014-03-31,111652.22,staffing,Payroll,n/a
+4090,"Lord, Jonathan",Conservative,13_14,2014-03-25,96.28,office costs,Stationery Purchase,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-05-27,80.32,office costs,Const Office Tel. Usage/Rental,364816
+4090,"Lord, Jonathan",Conservative,14_15,2014-06-19,64.8,office costs,Stationery Purchase,376828
+4090,"Lord, Jonathan",Conservative,14_15,2014-07-31,73.03,office costs,Const Office Tel. Usage/Rental,376823
+4090,"Lord, Jonathan",Conservative,14_15,2014-04-04,13.70,travel,Public Tr RAIL MP Staff - RTN,0000349939
+4090,"Lord, Jonathan",Conservative,14_15,2014-10-07,73.78,office costs,Const Office Tel. Usage/Rental,391136
+4090,"Lord, Jonathan",Conservative,14_15,2014-04-03,217.2,office costs,Stationery Purchase,364816
+4090,"Lord, Jonathan",Conservative,14_15,2014-07-23,96.28,office costs,Stationery Purchase,Payment To Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-07-23,6.12,office costs,Stationery Purchase,Payment To Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-07-03,9075,staffing,Pooled Services,382473
+4090,"Lord, Jonathan",Conservative,14_15,2014-08-09,577.7,office costs,Legal Exp/Emp Practice Insur.,Payment To Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-04-03,84,office costs,Stationery Purchase,364816
+4090,"Lord, Jonathan",Conservative,14_15,2014-08-21,69.76,office costs,Const Office Tel. Usage/Rental,383315
+4090,"Lord, Jonathan",Conservative,14_15,2014-07-23,156.01,office costs,Stationery Purchase,Payment To Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-10-14,96.28,office costs,Stationery Purchase,Payment To Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-09-02,107.352,office costs,Stationery Purchase,Payment To Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-07-25,13,travel,Public Tr RAIL MP Staff - RTN,374017
+4090,"Lord, Jonathan",Conservative,14_15,2014-09-02,96.28,office costs,Stationery Purchase,Payment To Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-09-30,70.8,office costs,Const Office Tel. Usage/Rental,383305
+4090,"Lord, Jonathan",Conservative,14_15,2014-08-29,74.92,office costs,Const Office Tel. Usage/Rental,382839
+4090,"Lord, Jonathan",Conservative,14_15,2014-09-12,13,travel,Public Tr RAIL MP Staff - RTN,382512
+4090,"Lord, Jonathan",Conservative,14_15,2014-07-31,111.94,office costs,Const Office Tel. Usage/Rental,376823
+4090,"Lord, Jonathan",Conservative,14_15,2014-09-30,70.8,office costs,Const Office Tel. Usage/Rental,383305
+4090,"Lord, Jonathan",Conservative,14_15,2014-08-19,660,office costs,Website - Hosting,391127
+4090,"Lord, Jonathan",Conservative,14_15,2014-07-23,96.28,office costs,Stationery Purchase,Payment To Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-06-25,7750,office costs,Const Office Rent,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-07-31,76.6,office costs,Const Office Tel. Usage/Rental,376823
+4090,"Lord, Jonathan",Conservative,14_15,2014-05-02,13,travel,Public Tr RAIL MP Staff - RTN,374017
+4090,"Lord, Jonathan",Conservative,14_15,2014-06-10,62,office costs,Postage Purchase,376816
+4090,"Lord, Jonathan",Conservative,14_15,2014-04-08,2620,office costs,Professional Services: Direct,Payment to Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-10-14,96.28,office costs,Stationery Purchase,Payment To Supplier
+4090,"Lord, Jonathan",Conservative,14_15,2014-11-21,13.7,travel,Public Tr RAIL MP Staff - RTN,394967

@@ -1,0 +1,788 @@
+id,list_name,party,session,date,value,category,description,claim_number
+3930,"Lucas, Caroline",Green,12_13,2013-02-26,119,accommodation,Hotel London Area,0000258550
+3930,"Lucas, Caroline",Green,12_13,2012-08-30,144.43,office costs,Stationery Purchase,0000208070
+3930,"Lucas, Caroline",Green,10_11,2010-10-05,35.25,constituency rental,Const Office Internet Rental,37217
+3930,"Lucas, Caroline",Green,10_11,2010-12-07,105.75,constituency rental,Const Office Hire of Premises,68849
+3930,"Lucas, Caroline",Green,10_11,2011-02-02,170,accommodation,Hotel London Area,68830
+3930,"Lucas, Caroline",Green,10_11,2010-09-14,80,accommodation,Hotel London Area,37229
+3930,"Lucas, Caroline",Green,10_11,2010-07-20,0.9,travel,Public Tr Underground MP,18230
+3930,"Lucas, Caroline",Green,10_11,2010-08-25,56,general admin,Venue Hire,37274
+3930,"Lucas, Caroline",Green,10_11,2011-03-01,325.28,general admin,Stationery Purchase,77715
+3930,"Lucas, Caroline",Green,10_11,2010-07-14,5.1,general admin,Hospitality,14496
+3930,"Lucas, Caroline",Green,10_11,2011-01-06,29.16,general admin,Stationery Purchase,68839
+3930,"Lucas, Caroline",Green,10_11,2011-01-25,987.6,constituency rental,Const Office Rent,68849
+3930,"Lucas, Caroline",Green,10_11,2010-07-15,8.85,general admin,Hospitality,14496
+3930,"Lucas, Caroline",Green,10_11,2010-07-26,10.4,travel,Taxi After Late Sitting,19837
+3930,"Lucas, Caroline",Green,10_11,2011-02-15,14.93,general admin,Payment Telephone/Mobile,84061
+3930,"Lucas, Caroline",Green,10_11,2010-06-17,80,general admin,Venue Hire,14492
+3930,"Lucas, Caroline",Green,10_11,2010-08-01,35.25,constituency rental,Const Office Internet Rental,26459
+3930,"Lucas, Caroline",Green,10_11,2010-09-08,105,accommodation,Hotel London Area,37229
+3930,"Lucas, Caroline",Green,10_11,2010-12-16,86.4,constituency rental,Const Office Tel. Usage/Rental,68849
+3930,"Lucas, Caroline",Green,10_11,2011-01-26,170,accommodation,Hotel London Area,68830
+3930,"Lucas, Caroline",Green,10_11,2010-07-21,33,general admin,Stationery Purchase,18228
+3930,"Lucas, Caroline",Green,10_11,2011-02-03,77.52,constituency rental,Const Office Tel. Usage/Rental,68849
+3930,"Lucas, Caroline",Green,10_11,2010-08-25,21.7,travel,Public Tr RAIL MP Staff - RTN,26456
+3930,"Lucas, Caroline",Green,10_11,2010-06-03,38.3,travel,Public Tr RAIL - RTN,2967
+3930,"Lucas, Caroline",Green,10_11,2010-12-06,88,accommodation,Hotel London Area,49908
+3930,"Lucas, Caroline",Green,10_11,2010-05-11,27.6,travel,Public Tr RAIL - RTN,2967
+3930,"Lucas, Caroline",Green,10_11,2010-06-09,31.77,general admin,Stationery Purchase,8417
+3930,"Lucas, Caroline",Green,10_11,2010-05-25,21.4,travel,Public Tr RAIL - SGL,2967
+3930,"Lucas, Caroline",Green,10_11,2010-09-01,183.3,general admin,Stationery Purchase,37213
+3930,"Lucas, Caroline",Green,10_11,2011-02-17,86.4,general admin,Landline Hire,84137
+3930,"Lucas, Caroline",Green,10_11,2010-10-27,160,accommodation,Hotel London Area,46043
+3930,"Lucas, Caroline",Green,10_11,2010-11-11,4.42,general admin,Stationery Purchase,49913
+3930,"Lucas, Caroline",Green,10_11,2011-01-05,45,constituency rental,Const Office Hire of Premises,68849
+3930,"Lucas, Caroline",Green,10_11,2010-07-23,1.8,travel,Public Tr BUS MP Staff,26456
+3930,"Lucas, Caroline",Green,10_11,2010-09-23,39,constituency rental,Const Office Hire of Premises,46058
+3930,"Lucas, Caroline",Green,10_11,2010-08-10,35.25,constituency rental,Const Office Internet Rental,26459
+3930,"Lucas, Caroline",Green,10_11,2011-03-08,15.19,general admin,Professional Services,84137
+3930,"Lucas, Caroline",Green,10_11,2011-01-18,78.6,general admin,Stationery Purchase,68839
+3930,"Lucas, Caroline",Green,10_11,2011-03-08,75.84,constituency rental,Const Office Tel. Usage/Rental,77726
+3930,"Lucas, Caroline",Green,10_11,2010-07-06,20.7,travel,Public Tr RAIL - SGL,18230
+3930,"Lucas, Caroline",Green,10_11,2010-12-01,84.6,constituency rental,Const Office Tel. Usage/Rental,56133
+3930,"Lucas, Caroline",Green,10_11,2010-07-26,80,accommodation,Hotel London Area,18224
+3930,"Lucas, Caroline",Green,10_11,2010-06-09,27.6,travel,Public Tr RAIL - RTN,8371
+3930,"Lucas, Caroline",Green,10_11,2010-06-30,27.7,travel,Public Tr RAIL - RTN,18230
+3930,"Lucas, Caroline",Green,10_11,2011-02-08,15.34,general admin,Professional Services,84137
+3930,"Lucas, Caroline",Green,10_11,2010-07-22,10.6,travel,Taxi MP Staff,19846
+3930,"Lucas, Caroline",Green,10_11,2010-06-22,60,accommodation,Hotel London Area,8342
+3930,"Lucas, Caroline",Green,10_11,2011-02-02,117,constituency rental,Const Office Hire of Premises,68849
+3930,"Lucas, Caroline",Green,10_11,2010-07-12,21.4,travel,Public Tr RAIL - SGL,18230
+3930,"Lucas, Caroline",Green,10_11,2010-09-07,52.88,general admin,Venue Hire,37274
+3930,"Lucas, Caroline",Green,10_11,2011-02-17,36,general admin,Other,84137
+3930,"Lucas, Caroline",Green,10_11,2010-05-25,1723.14,general admin,Recruitment Services,14492
+3930,"Lucas, Caroline",Green,10_11,2010-05-26,38.3,travel,Public Tr RAIL - RTN,2967
+3930,"Lucas, Caroline",Green,10_11,2011-03-02,141.62,general admin,Stationery Purchase,84059
+3930,"Lucas, Caroline",Green,10_11,2010-06-10,54.2,general admin,Stationery Purchase,8411
+3930,"Lucas, Caroline",Green,10_11,2010-08-01,20.56,constituency rental,Const Office Tel. Usage/Rental,26459
+3930,"Lucas, Caroline",Green,10_11,2010-07-13,9.8,travel,Taxi After Late Sitting,18230
+3930,"Lucas, Caroline",Green,10_11,2010-07-20,101,accommodation,Hotel London Area,18224
+3930,"Lucas, Caroline",Green,10_11,2010-06-09,17.12,general admin,Stationery Purchase,8417
+3930,"Lucas, Caroline",Green,10_11,2010-09-23,137.04,general admin,Stationery Purchase,37213
+3930,"Lucas, Caroline",Green,10_11,2010-07-15,32.14,general admin,Stationery Purchase,19839
+3930,"Lucas, Caroline",Green,10_11,2010-07-22,42.4,travel,Public Tr RAIL - RTN,18230
+3930,"Lucas, Caroline",Green,10_11,2010-06-14,23.8,travel,Public Tr RAIL MP Staff - RTN,8405
+3930,"Lucas, Caroline",Green,10_11,2010-09-24,76.96,general admin,Stationery Purchase,37213
+3930,"Lucas, Caroline",Green,10_11,2010-11-19,44.89,general admin,Stationery Purchase,56130
+3930,"Lucas, Caroline",Green,10_11,2010-06-29,60,accommodation,Hotel London Area,8342
+3930,"Lucas, Caroline",Green,10_11,2010-10-22,140,accommodation,Hotel London Area,46043
+3930,"Lucas, Caroline",Green,10_11,2010-06-28,106,accommodation,Hotel London Area,8342
+3930,"Lucas, Caroline",Green,10_11,2010-08-11,4580.86,constituency rental,Const Office Rent,26459
+3930,"Lucas, Caroline",Green,10_11,2010-07-14,24.1,travel,Public Tr RAIL MP Staff - RTN,14495
+3930,"Lucas, Caroline",Green,10_11,2011-01-25,86.4,constituency rental,Const Office Tel. Usage/Rental,68849
+3930,"Lucas, Caroline",Green,10_11,2010-11-18,76.96,general admin,Stationery Purchase,56130
+3930,"Lucas, Caroline",Green,10_11,2010-09-08,24.1,travel,Public Tr RAIL MP Staff - RTN,37223
+3930,"Lucas, Caroline",Green,10_11,2010-05-12,42.4,travel,Public Tr RAIL - RTN,2967
+3930,"Lucas, Caroline",Green,10_11,2010-07-06,105,accommodation,Hotel London Area,18224
+3930,"Lucas, Caroline",Green,10_11,2010-09-02,64.04,constituency rental,Const Office Tel. Usage/Rental,26459
+3930,"Lucas, Caroline",Green,10_11,2010-12-01,35.25,constituency rental,Const Office Internet Rental,56133
+3930,"Lucas, Caroline",Green,10_11,2010-06-09,279.18,general admin,Stationery Purchase,8417
+3930,"Lucas, Caroline",Green,10_11,2010-10-12,10,travel,Taxi After Late Sitting,40271
+3930,"Lucas, Caroline",Green,10_11,2010-10-22,60,accommodation,Hotel London Area,46043
+3930,"Lucas, Caroline",Green,10_11,2011-01-05,163.2,general admin,Stationery Purchase,62485
+3930,"Lucas, Caroline",Green,10_11,2010-09-02,967.03,constituency rental,Const Office Rent,26459
+3930,"Lucas, Caroline",Green,10_11,2011-01-25,100.18,general admin,Stationery Purchase,68839
+3930,"Lucas, Caroline",Green,10_11,2010-06-23,80,accommodation,Hotel London Area,8342
+3930,"Lucas, Caroline",Green,10_11,2010-09-09,3996,travel,Public Tr Season Ticket,37755
+3930,"Lucas, Caroline",Green,10_11,2010-08-15,46.43,general admin,Stationery Purchase,26457
+3930,"Lucas, Caroline",Green,10_11,2011-02-17,336,accommodation,Hotel London Area,71285
+3930,"Lucas, Caroline",Green,10_11,2010-05-20,38.3,travel,Public Tr RAIL - RTN,2967
+3930,"Lucas, Caroline",Green,10_11,2010-10-13,136.18,accommodation,Hotel London Area,40273
+3930,"Lucas, Caroline",Green,10_11,2010-05-27,38.3,travel,Public Tr RAIL - RTN,2967
+3930,"Lucas, Caroline",Green,10_11,2010-07-01,42.4,travel,Public Tr RAIL - RTN,18230
+3930,"Lucas, Caroline",Green,10_11,2010-06-08,106,accommodation,Hotel London Area,8342
+3930,"Lucas, Caroline",Green,10_11,2010-05-14,12,travel,Taxi MP Staff,8405
+3930,"Lucas, Caroline",Green,10_11,2010-12-01,967.03,constituency rental,Const Office Hire of Premises,56133
+3930,"Lucas, Caroline",Green,10_11,2010-11-04,158.63,constituency rental,Const Office Hire of Premises,49914
+3930,"Lucas, Caroline",Green,10_11,2010-05-24,50,general admin,Venue Hire,14492
+3930,"Lucas, Caroline",Green,10_11,2010-08-09,29.99,general admin,Shredder Purchase,26457
+3930,"Lucas, Caroline",Green,10_11,2010-12-09,160,accommodation,Hotel London Area,49908
+3930,"Lucas, Caroline",Green,10_11,2011-01-20,24,general admin,Other,84137
+3930,"Lucas, Caroline",Green,10_11,2010-06-10,42.4,travel,Public Tr RAIL - RTN,8371
+3930,"Lucas, Caroline",Green,10_11,2010-07-20,22.8,travel,Public Tr RAIL - SGL,18230
+3930,"Lucas, Caroline",Green,10_11,2010-07-23,1.8,travel,Public Tr BUS MP Staff,26456
+3930,"Lucas, Caroline",Green,10_11,2010-05-24,9.99,general admin,Stationery Purchase,8411
+3930,"Lucas, Caroline",Green,10_11,2011-03-03,197,accommodation,Hotel London Area,77709
+3930,"Lucas, Caroline",Green,10_11,2010-09-16,272.01,general admin,Stationery Purchase,37213
+3930,"Lucas, Caroline",Green,10_11,2010-11-30,160,accommodation,Hotel London Area,49908
+3930,"Lucas, Caroline",Green,10_11,2010-07-16,3.6,travel,Public Tr BUS MP Staff,19846
+3930,"Lucas, Caroline",Green,10_11,2010-06-25,12.05,travel,Public Tr RAIL - SGL,8371
+3930,"Lucas, Caroline",Green,10_11,2010-09-08,160,accommodation,Hotel London Area,37229
+3930,"Lucas, Caroline",Green,10_11,2010-05-13,1.4,general admin,Other,14494
+3930,"Lucas, Caroline",Green,10_11,2010-05-13,14.76,general admin,Postage Purchase,14494
+3930,"Lucas, Caroline",Green,10_11,2010-09-02,35.25,constituency rental,Const Office Internet Rental,26459
+3930,"Lucas, Caroline",Green,10_11,2010-12-01,110,accommodation,Hotel London Area,49908
+3930,"Lucas, Caroline",Green,10_11,2010-10-31,13.98,general admin,Stationery Purchase,46051
+3930,"Lucas, Caroline",Green,10_11,2011-01-25,36,constituency rental,Const Office Internet Rental,68849
+3930,"Lucas, Caroline",Green,10_11,2010-11-10,367.84,general admin,Stationery Purchase,49913
+3930,"Lucas, Caroline",Green,10_11,2011-02-08,85,accommodation,Hotel London Area,68830
+3930,"Lucas, Caroline",Green,10_11,2010-12-16,36,constituency rental,Const Office Internet Rental,68849
+3930,"Lucas, Caroline",Green,10_11,2010-10-05,84.6,constituency rental,Const Office Tel. Usage/Rental,37217
+3930,"Lucas, Caroline",Green,10_11,2010-10-05,967.03,constituency rental,Const Office Rent,37217
+3930,"Lucas, Caroline",Green,10_11,2011-02-17,987.6,constituency rental,Const Office Rent,84137
+3930,"Lucas, Caroline",Green,10_11,2011-01-12,224,accommodation,Hotel London Area,62496
+3930,"Lucas, Caroline",Green,10_11,2010-06-17,42.4,travel,Public Tr RAIL - RTN,8371
+3930,"Lucas, Caroline",Green,10_11,2011-01-04,36,general admin,Professional Services,69615
+3930,"Lucas, Caroline",Green,10_11,2010-06-07,106,accommodation,Hotel London Area,8342
+3930,"Lucas, Caroline",Green,10_11,2011-01-20,336,accommodation,Hotel London Area,68830
+3930,"Lucas, Caroline",Green,10_11,2010-06-02,27.6,travel,Public Tr RAIL - RTN,2967
+3930,"Lucas, Caroline",Green,10_11,2010-07-21,9.4,travel,Taxi After Late Sitting,18230
+3930,"Lucas, Caroline",Green,10_11,2011-03-14,7.06,general admin,Postage Purchase,77715
+3930,"Lucas, Caroline",Green,10_11,2010-07-15,21.4,travel,Public Tr RAIL - SGL,19837
+3930,"Lucas, Caroline",Green,10_11,2010-08-26,51.71,general admin,Computer HW Purchase,26457
+3930,"Lucas, Caroline",Green,10_11,2010-05-17,2.99,general admin,Stationery Purchase,8411
+3930,"Lucas, Caroline",Green,10_11,2010-07-14,25.2,travel,Public Tr RAIL MP Staff - RTN,19846
+3930,"Lucas, Caroline",Green,10_11,2011-02-18,84.6,general admin,Stationery Purchase,77715
+3930,"Lucas, Caroline",Green,10_11,2010-06-24,104.33,general admin,Stationery Purchase,14497
+3930,"Lucas, Caroline",Green,10_11,2010-10-27,106,accommodation,Hotel London Area,46043
+3930,"Lucas, Caroline",Green,10_11,2010-09-24,88.71,general admin,Stationery Purchase,37213
+3930,"Lucas, Caroline",Green,10_11,2010-07-15,186,accommodation,Hotel London Area,18224
+3930,"Lucas, Caroline",Green,10_11,2011-03-27,84.6,general admin,Stationery Purchase,84059
+3930,"Lucas, Caroline",Green,10_11,2010-07-22,32.2,travel,Public Tr RAIL Other MP Staff,19846
+3930,"Lucas, Caroline",Green,10_11,2010-10-01,123.38,constituency rental,Const Office Hire of Premises,46058
+3930,"Lucas, Caroline",Green,10_11,2011-01-05,3,general admin,Other,62485
+3930,"Lucas, Caroline",Green,10_11,2010-07-07,95,accommodation,Hotel London Area,18224
+3930,"Lucas, Caroline",Green,10_11,2010-05-24,3.26,general admin,Postage Purchase,14494
+3930,"Lucas, Caroline",Green,10_11,2010-09-29,313.72,general admin,Stationery Purchase,37213
+3930,"Lucas, Caroline",Green,10_11,2010-11-03,135.09,constituency rental,Const Office Tel. Usage/Rental,49916
+3930,"Lucas, Caroline",Green,10_11,2011-01-25,18.56,general admin,Stationery Purchase,68839
+3930,"Lucas, Caroline",Green,10_11,2011-01-19,23,travel,Public Tr RAIL MP Staff - RTN,68846
+3930,"Lucas, Caroline",Green,10_11,2010-09-07,10.2,travel,Taxi After Late Sitting,37223
+3930,"Lucas, Caroline",Green,10_11,2010-11-18,318,accommodation,Hotel London Area,49909
+3930,"Lucas, Caroline",Green,10_11,2010-05-29,1.99,general admin,Stationery Purchase,8411
+3930,"Lucas, Caroline",Green,10_11,2010-11-17,26.26,general admin,Stationery Purchase,56130
+3930,"Lucas, Caroline",Green,10_11,2010-11-29,159.8,general admin,Stationery Purchase,56130
+3930,"Lucas, Caroline",Green,10_11,2010-07-08,21.7,travel,Public Tr RAIL MP Staff - RTN,14495
+3930,"Lucas, Caroline",Green,10_11,2010-11-11,21.87,general admin,Stationery Purchase,49913
+3930,"Lucas, Caroline",Green,10_11,2011-02-02,25.6,travel,Public Tr RAIL MP Staff - RTN,68846
+3930,"Lucas, Caroline",Green,10_11,2010-07-30,0.81,general admin,Postage Purchase,26457
+3930,"Lucas, Caroline",Green,10_11,2010-06-11,45,general admin,Venue Hire,14492
+3930,"Lucas, Caroline",Green,10_11,2010-12-16,987.6,constituency rental,Const Office Rent,68849
+3930,"Lucas, Caroline",Green,10_11,2010-07-21,39,general admin,Venue Hire,19839
+3930,"Lucas, Caroline",Green,10_11,2010-11-04,42.4,travel,Public Tr RAIL MP Staff - RTN,49911
+3930,"Lucas, Caroline",Green,10_11,2010-05-18,27.6,travel,Public Tr RAIL - RTN,2967
+3930,"Lucas, Caroline",Green,10_11,2010-12-13,118.44,general admin,Contact Cards,62485
+3930,"Lucas, Caroline",Green,10_11,2010-05-19,19.8,travel,Public Tr RAIL - SGL,2967
+3930,"Lucas, Caroline",Green,10_11,2010-11-10,212,accommodation,Hotel London Area,49909
+3930,"Lucas, Caroline",Green,10_11,2010-10-01,35.25,general admin,Other,46051
+3930,"Lucas, Caroline",Green,10_11,2011-03-17,351,accommodation,Hotel London Area,77709
+3930,"Lucas, Caroline",Green,10_11,2010-11-24,120,accommodation,Hotel London Area,49908
+3930,"Lucas, Caroline",Green,10_11,2010-12-13,212,accommodation,Hotel London Area,62496
+3930,"Lucas, Caroline",Green,10_11,2010-12-02,80,accommodation,Hotel London Area,49908
+3930,"Lucas, Caroline",Green,10_11,2010-10-05,95.1,constituency rental,Const Office Tel. Usage/Rental,40275
+3930,"Lucas, Caroline",Green,10_11,2010-07-23,1.8,travel,Public Tr BUS MP Staff,19846
+3930,"Lucas, Caroline",Green,10_11,2010-12-07,180.79,constituency rental,Const Office Tel. Usage/Rental,56133
+3930,"Lucas, Caroline",Green,10_11,2010-07-06,337,general admin,Stationery Purchase,14494
+3930,"Lucas, Caroline",Green,10_11,2010-06-09,5.5,general admin,Postage Purchase,8411
+3930,"Lucas, Caroline",Green,10_11,2010-09-07,73.81,constituency rental,Const Office Tel. Usage/Rental,37217
+3930,"Lucas, Caroline",Green,10_11,2010-08-05,68.88,constituency rental,Const Office Tel. Usage/Rental,26459
+3930,"Lucas, Caroline",Green,10_11,2010-07-20,12,travel,Taxi After Late Sitting,18230
+3930,"Lucas, Caroline",Green,10_11,2010-07-22,17.73,general admin,Stationery Purchase,19839
+3930,"Lucas, Caroline",Green,10_11,2010-07-08,21.7,travel,Public Tr RAIL - RTN,18230
+3930,"Lucas, Caroline",Green,10_11,2010-08-10,20.56,constituency rental,Const Office Tel. Usage/Rental,26459
+3930,"Lucas, Caroline",Green,10_11,2010-11-04,5.71,general admin,Other,62485
+3930,"Lucas, Caroline",Green,10_11,2011-03-30,560,accommodation,Hotel London Area,84060
+3930,"Lucas, Caroline",Green,10_11,2010-09-01,30,general admin,Venue Hire,37274
+3930,"Lucas, Caroline",Green,10_11,2010-05-13,10,travel,Taxi MP Staff,8405
+3930,"Lucas, Caroline",Green,10_11,2010-08-17,794.59,general admin,Computer HW Purchase,26457
+3930,"Lucas, Caroline",Green,10_11,2010-07-01,360.72,general admin,Stationery Purchase,14497
+3930,"Lucas, Caroline",Green,10_11,2010-10-18,9.6,travel,Taxi After Late Sitting,46047
+3930,"Lucas, Caroline",Green,10_11,2011-03-01,99,constituency rental,Const Office Hire of Premises,77726
+3930,"Lucas, Caroline",Green,10_11,2010-06-15,192,general admin,Venue Hire,8417
+3930,"Lucas, Caroline",Green,11_12,2012-02-01,86.4,office costs,Const Office Tel. Usage/Rental,0000151922
+3930,"Lucas, Caroline",Green,11_12,2011-11-09,85,accommodation,Hotel London Area,0000135454
+3930,"Lucas, Caroline",Green,11_12,2011-10-04,25.9,travel,Public Tr RAIL MP Staff - RTN,123856
+3930,"Lucas, Caroline",Green,11_12,2011-09-07,241.8,office costs,Stationery Purchase,117603
+3930,"Lucas, Caroline",Green,11_12,2011-04-19,29.79,general admin,Stationery Purchase,91597
+3930,"Lucas, Caroline",Green,11_12,2011-05-10,15.07,office costs,Other,109455
+3930,"Lucas, Caroline",Green,11_12,2011-10-12,85,accommodation,Hotel London Area,123857
+3930,"Lucas, Caroline",Green,11_12,2012-03-30,2.4,office costs,Waste Disposal,0000167129
+3930,"Lucas, Caroline",Green,11_12,2011-06-06,31.56,general admin,Payment Telephone/Mobile,99155
+3930,"Lucas, Caroline",Green,11_12,2012-03-06,335.86,office costs,Stationery Purchase,0000162487
+3930,"Lucas, Caroline",Green,11_12,2011-12-06,70.74,office costs,Stationery Purchase,0000135455
+3930,"Lucas, Caroline",Green,11_12,2011-12-06,141.48,office costs,Stationery Purchase,0000135455
+3930,"Lucas, Caroline",Green,11_12,2012-01-01,36,office costs,Const Office Internet Usage,0000151922
+3930,"Lucas, Caroline",Green,11_12,2011-04-15,27.5,travel,Public Tr RAIL MP Staff - RTN,91603
+3930,"Lucas, Caroline",Green,11_12,2011-10-05,16.07,office costs,Computer SW Purchase,130424
+3930,"Lucas, Caroline",Green,11_12,2012-03-14,112,accommodation,Hotel London Area,0000162483
+3930,"Lucas, Caroline",Green,11_12,2011-09-01,36,office costs,Const Office Internet Rental,0000114117
+3930,"Lucas, Caroline",Green,11_12,2011-09-13,51.71,office costs,Computer HW Purchase,0000114117
+3930,"Lucas, Caroline",Green,11_12,2011-06-13,1.6,travel,Public Tr BUS MP Staff,99165
+3930,"Lucas, Caroline",Green,11_12,2011-09-23,25.6,travel,Public Tr RAIL MP Staff - RTN,123856
+3930,"Lucas, Caroline",Green,11_12,2011-08-15,126,office costs,Const Office Hire of Premises,0000114117
+3930,"Lucas, Caroline",Green,11_12,2011-04-26,112,accommodation,Hotel London Area,91596
+3930,"Lucas, Caroline",Green,11_12,2012-02-08,15.67,office costs,Computer SW Purchase,0000153124
+3930,"Lucas, Caroline",Green,11_12,2011-09-05,4504,travel,Public Tr Season Ticket,124154
+3930,"Lucas, Caroline",Green,11_12,2012-03-12,144,office costs,Professional Services,0000162487
+3930,"Lucas, Caroline",Green,11_12,2011-07-13,112,accommodation,Hotel London Area,109439
+3930,"Lucas, Caroline",Green,11_12,2011-07-01,36,office costs,Const Office Internet Rental,109443
+3930,"Lucas, Caroline",Green,11_12,2012-03-07,112,accommodation,Hotel London Area,0000162483
+3930,"Lucas, Caroline",Green,11_12,2011-08-01,86.4,office costs,Const Office Tel. Usage/Rental,109443
+3930,"Lucas, Caroline",Green,11_12,2011-11-08,36,office costs,Const Office Internet Usage,130424
+3930,"Lucas, Caroline",Green,11_12,2011-06-13,25.6,travel,Public Tr RAIL MP Staff - RTN,99165
+3930,"Lucas, Caroline",Green,11_12,2011-04-07,124,office costs,Payment Telephone/Mobile,84061
+3930,"Lucas, Caroline",Green,11_12,2011-09-05,70,office costs,Stationery Purchase,0000114117
+3930,"Lucas, Caroline",Green,11_12,2012-01-01,86.4,office costs,Const Office Tel. Usage/Rental,0000151922
+3930,"Lucas, Caroline",Green,11_12,2011-05-05,330.16,staffing,Professional Services (Staff.),91606
+3930,"Lucas, Caroline",Green,11_12,2011-10-19,170,accommodation,Hotel London Area,130422
+3930,"Lucas, Caroline",Green,11_12,2011-09-22,38.3,travel,Public Tr RAIL MP Staff - RTN,123856
+3930,"Lucas, Caroline",Green,11_12,2011-04-05,181,accommodation,Hotel London Area,84058
+3930,"Lucas, Caroline",Green,11_12,2011-04-05,12,office costs,Other,84061
+3930,"Lucas, Caroline",Green,11_12,2011-07-14,23,travel,Public Tr RAIL MP Staff - RTN,109436
+3930,"Lucas, Caroline",Green,11_12,2011-04-27,78.6,general admin,Stationery Purchase,91597
+3930,"Lucas, Caroline",Green,11_12,2011-06-01,36,general admin,Payment Internet,99155
+3930,"Lucas, Caroline",Green,11_12,2011-07-19,49.99,office costs,Shredder Purchase,109443
+3930,"Lucas, Caroline",Green,11_12,2011-11-03,224,accommodation,Hotel London Area,130422
+3930,"Lucas, Caroline",Green,11_12,2011-05-01,36,constituency rental,Const Office Internet Usage,91597
+3930,"Lucas, Caroline",Green,11_12,2012-01-15,25.37,office costs,Const Office Tel. Usage/Rental,0000151922
+3930,"Lucas, Caroline",Green,11_12,2011-06-29,85,accommodation,Hotel London Area,109439
+3930,"Lucas, Caroline",Green,11_12,2011-06-28,7.8,travel,Taxi After Late Sitting,109449
+3930,"Lucas, Caroline",Green,11_12,2012-01-27,21.8,travel,Public Tr RAIL MP Staff - SGL,0000151921
+3930,"Lucas, Caroline",Green,11_12,2011-09-05,15.42,office costs,Computer SW Purchase,130424
+3930,"Lucas, Caroline",Green,11_12,2012-02-29,85,accommodation,Hotel London Area,0000162483
+3930,"Lucas, Caroline",Green,11_12,2011-12-09,25.6,travel,Public Tr RAIL MP Staff - RTN,0000151921
+3930,"Lucas, Caroline",Green,11_12,2011-04-01,36,office costs,Other,84061
+3930,"Lucas, Caroline",Green,11_12,2011-06-01,987.6,constituency rental,Const Office Rent,99155
+3930,"Lucas, Caroline",Green,11_12,2012-02-01,112,accommodation,Hotel London Area,0000151919
+3930,"Lucas, Caroline",Green,11_12,2011-07-21,15,travel,Taxi MP,117728
+3930,"Lucas, Caroline",Green,11_12,2011-07-06,81,office costs,Const Office Hire of Premises,109443
+3930,"Lucas, Caroline",Green,11_12,2011-05-12,170,accommodation,Hotel London Area,91596
+3930,"Lucas, Caroline",Green,11_12,2012-01-23,41.3,travel,Public Tr RAIL MP Staff - RTN,0000153123
+3930,"Lucas, Caroline",Green,11_12,2011-05-18,224,accommodation,Hotel London Area,91596
+3930,"Lucas, Caroline",Green,11_12,2011-09-02,50.84,office costs,Const Office Tel. Usage/Rental,117603
+3930,"Lucas, Caroline",Green,11_12,2011-04-05,3.84,office costs,Other,84061
+3930,"Lucas, Caroline",Green,11_12,2011-10-01,987,office costs,Const Office Rent,123855
+3930,"Lucas, Caroline",Green,11_12,2011-06-28,15,travel,Food & Drink @ Parliament,109449
+3930,"Lucas, Caroline",Green,11_12,2011-11-18,25.6,travel,Public Tr RAIL MP Staff - RTN,0000135470
+3930,"Lucas, Caroline",Green,11_12,2012-03-29,183.6,office costs,Venue Hire Surgery/Meeting,0000167129
+3930,"Lucas, Caroline",Green,11_12,2012-02-03,34.44,office costs,Const Office Tel. Usage/Rental,0000153124
+3930,"Lucas, Caroline",Green,11_12,2012-01-15,144,office costs,Const Office Hire of Premises,0000151922
+3930,"Lucas, Caroline",Green,11_12,2011-07-01,25.6,travel,Public Tr RAIL MP Staff - RTN,109436
+3930,"Lucas, Caroline",Green,11_12,2012-01-20,112,accommodation,Hotel London Area,0000151919
+3930,"Lucas, Caroline",Green,11_12,2011-08-11,186.2,travel,Public Tr AIR,114097
+3930,"Lucas, Caroline",Green,11_12,2011-09-02,54,office costs,Const Office Hire of Premises,117603
+3930,"Lucas, Caroline",Green,11_12,2011-08-11,17.9,travel,Public Tr RAIL - SGL,114097
+3930,"Lucas, Caroline",Green,11_12,2011-11-08,987.6,office costs,Const Office Rent,130424
+3930,"Lucas, Caroline",Green,11_12,2011-07-26,1.6,travel,Public Tr BUS MP Staff,109436
+3930,"Lucas, Caroline",Green,11_12,2011-06-08,9.83,general admin,Stationery Purchase,99161
+3930,"Lucas, Caroline",Green,11_12,2011-05-05,15.92,office costs,Payment Internet,62500
+3930,"Lucas, Caroline",Green,11_12,2011-08-01,36,office costs,Const Office Internet Rental,109443
+3930,"Lucas, Caroline",Green,11_12,2011-07-05,15.43,office costs,Computer SW Purchase,117603
+3930,"Lucas, Caroline",Green,11_12,2011-04-01,987.6,office costs,Const Office Rent,84061
+3930,"Lucas, Caroline",Green,11_12,2011-05-26,38.3,travel,Public Tr RAIL Other MP Staff,109436
+3930,"Lucas, Caroline",Green,11_12,2011-06-01,86.4,general admin,Landline Hire,99155
+3930,"Lucas, Caroline",Green,11_12,2011-05-17,352.16,general admin,Stationery Purchase,99161
+3930,"Lucas, Caroline",Green,11_12,2011-05-16,4.82,general admin,Stationery Purchase,99161
+3930,"Lucas, Caroline",Green,11_12,2011-06-08,85,accommodation,Hotel London Area,99150
+3930,"Lucas, Caroline",Green,11_12,2011-08-31,25.6,travel,Public Tr RAIL MP Staff - RTN,114097
+3930,"Lucas, Caroline",Green,11_12,2011-06-24,177.74,office costs,Stationery Purchase,109443
+3930,"Lucas, Caroline",Green,11_12,2011-07-01,86.4,office costs,Const Office Tel. Usage/Rental,109443
+3930,"Lucas, Caroline",Green,11_12,2011-11-08,86.4,office costs,Const Office Internet Rental,130424
+3930,"Lucas, Caroline",Green,11_12,2011-05-17,25.6,travel,Public Tr RAIL MP Staff - RTN,91603
+3930,"Lucas, Caroline",Green,11_12,2011-06-17,395.4,office costs,Training MP Staff,109443
+3930,"Lucas, Caroline",Green,11_12,2012-01-25,27.5,travel,Public Tr RAIL MP Staff - RTN,0000151921
+3930,"Lucas, Caroline",Green,11_12,2011-05-05,15.92,office costs,Payment Internet,62500
+3930,"Lucas, Caroline",Green,11_12,2011-04-05,171,office costs,Const Office Hire of Premises,84061
+3930,"Lucas, Caroline",Green,11_12,2012-03-01,36,office costs,Internet Usage/Rental,0000162487
+3930,"Lucas, Caroline",Green,11_12,2011-09-05,23.81,office costs,Stationery Purchase,0000114117
+3930,"Lucas, Caroline",Green,11_12,2011-10-06,198,office costs,Const Office Hire of Premises,123855
+3930,"Lucas, Caroline",Green,11_12,2012-02-01,36,office costs,Const Office Internet Usage,0000151922
+3930,"Lucas, Caroline",Green,11_12,2011-07-26,25.6,travel,Public Tr RAIL MP Staff - RTN,109436
+3930,"Lucas, Caroline",Green,11_12,2011-10-21,166.32,office costs,Stationery Purchase,130424
+3930,"Lucas, Caroline",Green,11_12,2011-09-01,987.6,office costs,Const Office Rent,0000114117
+3930,"Lucas, Caroline",Green,11_12,2011-12-06,214.76,office costs,Stationery Purchase,0000135455
+3930,"Lucas, Caroline",Green,11_12,2011-07-01,987.6,office costs,Const Office Rent,109443
+3930,"Lucas, Caroline",Green,11_12,2011-11-08,41.99,office costs,Payment Telephone/Mobile,130424
+3930,"Lucas, Caroline",Green,11_12,2011-07-20,180,accommodation,Hotel London Area,109439
+3930,"Lucas, Caroline",Green,11_12,2011-08-01,987.6,office costs,Const Office Rent,109443
+3930,"Lucas, Caroline",Green,11_12,2011-12-06,112,accommodation,Hotel London Area,0000135454
+3930,"Lucas, Caroline",Green,11_12,2011-10-01,86.4,office costs,Const Office Tel. Usage/Rental,123855
+3930,"Lucas, Caroline",Green,11_12,2012-02-01,987.6,office costs,Const Office Rent,0000151922
+3930,"Lucas, Caroline",Green,11_12,2011-04-01,86.4,office costs,Landline Hire,84061
+3930,"Lucas, Caroline",Green,11_12,2012-03-27,85,accommodation,Hotel London Area,0000162483
+3930,"Lucas, Caroline",Green,11_12,2011-11-05,15.45,office costs,Computer SW Purchase,130424
+3930,"Lucas, Caroline",Green,11_12,2011-09-01,86.4,office costs,Const Office Tel. Usage/Rental,0000114117
+3930,"Lucas, Caroline",Green,11_12,2011-07-07,49.39,office costs,Const Office Tel. Usage/Rental,109443
+3930,"Lucas, Caroline",Green,11_12,2011-06-02,90,constituency rental,Const Office Hire of Premises,99155
+3930,"Lucas, Caroline",Green,11_12,2011-08-15,38.32,office costs,Const Office Tel. Usage/Rental,0000114117
+3930,"Lucas, Caroline",Green,11_12,2011-05-10,29.1,constituency rental,Const Office Tel. Usage/Rental,91597
+3930,"Lucas, Caroline",Green,11_12,2011-10-01,36,office costs,Payment Internet,123855
+3930,"Lucas, Caroline",Green,11_12,2012-02-08,224,accommodation,Hotel London Area,0000153126
+3930,"Lucas, Caroline",Green,11_12,2012-02-23,70.74,office costs,Stationery Purchase,0000162487
+3930,"Lucas, Caroline",Green,11_12,2012-01-01,987.6,office costs,Const Office Rent,0000151922
+3930,"Lucas, Caroline",Green,11_12,2011-09-05,236.41,office costs,Stationery Purchase,0000114117
+3930,"Lucas, Caroline",Green,11_12,2011-07-18,78.6,office costs,Stationery Purchase,109443
+3930,"Lucas, Caroline",Green,11_12,2011-09-06,25.6,travel,Public Tr RAIL MP Staff - RTN,117600
+3930,"Lucas, Caroline",Green,11_12,2012-02-08,225,office costs,Const Office Hire of Premises,0000153124
+3930,"Lucas, Caroline",Green,11_12,2011-09-30,25.6,travel,Public Tr RAIL MP Staff - RTN,123856
+3930,"Lucas, Caroline",Green,11_12,2011-08-09,15.14,office costs,Professional Services,0000114117
+3930,"Lucas, Caroline",Green,11_12,2011-07-11,811.5,office costs,Computer HW Purchase,109443
+3930,"Lucas, Caroline",Green,11_12,2011-11-23,112,accommodation,Hotel London Area,0000135454
+3930,"Lucas, Caroline",Green,11_12,2012-03-21,224,accommodation,Hotel London Area,0000162483
+3930,"Lucas, Caroline",Green,11_12,2011-10-17,4.9,travel,Public Tr RAIL MP Staff - RTN,130423
+3930,"Lucas, Caroline",Green,11_12,2011-08-11,48,miscellaneous expenses,Contingency,0000130421
+3930,"Lucas, Caroline",Green,11_12,2012-01-10,16.01,office costs,Computer SW Purchase,0000153124
+3930,"Lucas, Caroline",Green,11_12,2011-05-25,224,accommodation,Hotel London Area,99150
+3930,"Lucas, Caroline",Green,11_12,2011-06-06,84.6,general admin,Stationery Purchase,99161
+3930,"Lucas, Caroline",Green,11_12,2012-01-18,64,accommodation,Hotel London Area,0000151919
+3930,"Lucas, Caroline",Green,11_12,2011-07-26,1.6,travel,Public Tr BUS MP Staff,109436
+3930,"Lucas, Caroline",Green,11_12,2012-01-12,112,accommodation,Hotel London Area,0000151919
+3930,"Lucas, Caroline",Green,11_12,2012-03-01,987.6,office costs,Const Office Rent,0000162487
+3930,"Lucas, Caroline",Green,11_12,2011-07-06,180,accommodation,Hotel London Area,109439
+3930,"Lucas, Caroline",Green,11_12,2011-09-13,85,accommodation,Hotel London Area,117602
+3930,"Lucas, Caroline",Green,11_12,2011-04-01,144,office costs,Professional Services,84059
+3930,"Lucas, Caroline",Green,11_12,2011-05-11,126,constituency rental,Const Office Hire of Premises,91597
+3930,"Lucas, Caroline",Green,11_12,2011-06-16,197,accommodation,Hotel London Area,99150
+3930,"Lucas, Caroline",Green,11_12,2011-05-01,987.6,constituency rental,Const Office Rent,91597
+3930,"Lucas, Caroline",Green,11_12,2011-09-30,2,travel,Public Tr BUS MP Staff,123856
+3930,"Lucas, Caroline",Green,11_12,2011-05-08,84.6,general admin,Stationery Purchase,91597
+3930,"Lucas, Caroline",Green,11_12,2011-12-14,170,accommodation,Hotel London Area,0000151919
+3930,"Lucas, Caroline",Green,11_12,2012-03-30,31.03,office costs,Const Office Tel. Usage/Rental,0000167129
+3930,"Lucas, Caroline",Green,11_12,2011-08-11,22.8,travel,Public Tr RAIL - SGL,114097
+3930,"Lucas, Caroline",Green,11_12,2011-07-21,35,travel,Public Tr RAIL Other,110932
+3930,"Lucas, Caroline",Green,11_12,2012-02-10,141.48,office costs,Stationery Purchase,0000153124
+3930,"Lucas, Caroline",Green,11_12,2012-03-28,27.8,travel,Public Tr RAIL MP Staff - RTN,0000162473
+3930,"Lucas, Caroline",Green,11_12,2011-05-01,86.4,constituency rental,Const Office Internet Rental,91597
+3930,"Lucas, Caroline",Green,11_12,2011-06-22,128,accommodation,Hotel London Area,109439
+3930,"Lucas, Caroline",Green,11_12,2011-10-04,6.4,travel,Taxi MP Staff,123856
+3930,"Lucas, Caroline",Green,11_12,2011-10-05,28.56,office costs,Payment Telephone/Mobile,123855
+3930,"Lucas, Caroline",Green,11_12,2012-03-01,86.4,office costs,Const Office Tel. Usage/Rental,0000162487
+3930,"Lucas, Caroline",Green,11_12,2011-10-06,2.4,office costs,Other,130424
+3930,"Lucas, Caroline",Green,11_12,2011-09-13,102.24,office costs,Computer HW Purchase,0000114117
+3930,"Lucas, Caroline",Green,11_12,2011-12-06,70.74,office costs,Stationery Purchase,0000135455
+3930,"Lucas, Caroline",Green,11_12,2011-06-13,1.6,travel,Public Tr BUS MP Staff,99165
+3930,"Lucas, Caroline",Green,11_12,2011-08-31,3.2,travel,Public Tr BUS MP Staff,114097
+3930,"Lucas, Caroline",Green,11_12,2011-06-08,15.08,office costs,Other,109455
+3930,"Lucas, Caroline",Green,11_12,2011-11-08,175.7,office costs,Const Office Hire of Premises,130424
+3930,"Lucas, Caroline",Green,11_12,2011-12-06,69.81,office costs,Stationery Purchase,0000135455
+3930,"Lucas, Caroline",Green,11_12,2011-09-05,32.8,travel,Public Tr RAIL MP Staff - RTN,117600
+3930,"Lucas, Caroline",Green,11_12,2012-03-26,9.4,travel,Taxi after Late Sitting 11pm,0000162486
+3930,"Lucas, Caroline",Green,11_12,2011-07-14,78.6,office costs,Stationery Purchase,109443
+3930,"Lucas, Caroline",Green,11_12,2011-07-05,84.6,office costs,Stationery Purchase,109443
+3930,"Lucas, Caroline",Green,12_13,2012-07-05,108,office costs,Venue Hire Surgery/Meeting,0000191011
+3930,"Lucas, Caroline",Green,12_13,2013-02-05,36,office costs,Const Office Tel. Usage/Rental,0000258565
+3930,"Lucas, Caroline",Green,12_13,2012-08-01,108,office costs,Venue Hire Surgery/Meeting,0000201045
+3930,"Lucas, Caroline",Green,12_13,2012-11-28,114,accommodation,Hotel London Area,0000230047
+3930,"Lucas, Caroline",Green,12_13,2012-07-11,87,accommodation,Hotel London Area,0000190995
+3930,"Lucas, Caroline",Green,12_13,2012-10-01,987.6,office costs,Const Office Rent,0000212990
+3930,"Lucas, Caroline",Green,12_13,2012-05-30,73.33,office costs,Stationery Purchase,0000191025
+3930,"Lucas, Caroline",Green,12_13,2012-06-11,2,travel,Public Tr BUS MP Staff,0000190997
+3930,"Lucas, Caroline",Green,12_13,2012-06-01,86.4,office costs,Const Office Tel. Usage/Rental,0000201045
+3930,"Lucas, Caroline",Green,12_13,2012-04-13,24.3,travel,Public Tr RAIL MP Staff - RTN,0000167128
+3930,"Lucas, Caroline",Green,12_13,2012-06-11,15.5,travel,Public Tr RAIL MP Staff - RTN,0000190997
+3930,"Lucas, Caroline",Green,12_13,2012-09-10,15.52,office costs,Professional Services,0000217096
+3930,"Lucas, Caroline",Green,12_13,2012-12-10,15.34,office costs,Software Purchase,0000230078
+3930,"Lucas, Caroline",Green,12_13,2012-06-08,30.14,office costs,Const Office Tel. Usage/Rental,0000191011
+3930,"Lucas, Caroline",Green,12_13,2013-03-01,1047.6,office costs,Const Office Rent,0000258565
+3930,"Lucas, Caroline",Green,12_13,2012-09-14,17.56,office costs,Stationery Purchase,0000208070
+3930,"Lucas, Caroline",Green,12_13,2012-07-05,43.45,office costs,Const Office Tel. Usage/Rental,0000191011
+3930,"Lucas, Caroline",Green,12_13,2012-04-04,794.59,office costs,Computer HW Purchase,0000167129
+3930,"Lucas, Caroline",Green,12_13,2012-11-02,4.2,office costs,Postage Purchase,0000230071
+3930,"Lucas, Caroline",Green,12_13,2013-02-19,110.86,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2013-01-03,86.4,office costs,Const Office Tel. Usage/Rental,0000244646
+3930,"Lucas, Caroline",Green,12_13,2012-11-02,2.38,office costs,Postage Purchase,0000230071
+3930,"Lucas, Caroline",Green,12_13,2012-10-09,15.29,office costs,Professional Services,0000217096
+3930,"Lucas, Caroline",Green,12_13,2012-09-05,201,accommodation,Hotel London Area,0000208078
+3930,"Lucas, Caroline",Green,12_13,2012-10-17,152,accommodation,Hotel London Area,0000216987
+3930,"Lucas, Caroline",Green,12_13,2012-07-03,12.4,travel,Taxi Working Late After 9pm,0000190997
+3930,"Lucas, Caroline",Green,12_13,2013-03-01,86.4,office costs,Const Office Tel. Usage/Rental,0000258565
+3930,"Lucas, Caroline",Green,12_13,2012-10-04,183.6,office costs,Venue Hire Surgery/Meeting,0000217096
+3930,"Lucas, Caroline",Green,12_13,2012-05-23,174,accommodation,Hotel London Area,0000176957
+3930,"Lucas, Caroline",Green,12_13,2012-12-19,352.7,office costs,Stationery Purchase,0000230071
+3930,"Lucas, Caroline",Green,12_13,2013-03-15,95.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2013-01-08,15.4,office costs,Professional Services,0000244646
+3930,"Lucas, Caroline",Green,12_13,2012-04-12,49.3,travel,Public Tr RAIL MP Staff - RTN,0000167128
+3930,"Lucas, Caroline",Green,12_13,2012-06-05,16,office costs,Professional Services,0000191011
+3930,"Lucas, Caroline",Green,12_13,2013-03-05,91,accommodation,Hotel London Area,0000258550
+3930,"Lucas, Caroline",Green,12_13,2012-12-14,55.43,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2012-07-05,15.92,office costs,Professional Services,0000191025
+3930,"Lucas, Caroline",Green,12_13,2013-02-19,52.07,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2012-12-14,52.07,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2012-05-31,6.86,office costs,Stationery Purchase,0000191025
+3930,"Lucas, Caroline",Green,12_13,2013-02-19,52.07,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2013-02-19,52.07,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2012-10-23,132,accommodation,Hotel London Area,0000216987
+3930,"Lucas, Caroline",Green,12_13,2012-11-15,47.46,office costs,Const Office Tel. Usage/Rental,0000230078
+3930,"Lucas, Caroline",Green,12_13,2012-11-08,15.45,office costs,Software Purchase,0000230078
+3930,"Lucas, Caroline",Green,12_13,2012-10-01,22.5,office costs,Venue Hire Surgery/Meeting,0000212997
+3930,"Lucas, Caroline",Green,12_13,2012-12-10,28.92,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2012-12-10,92.39,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2012-12-03,36,office costs,Internet Usage/Rental,0000230078
+3930,"Lucas, Caroline",Green,12_13,2012-05-01,987.6,office costs,Const Office Rent,0000176961
+3930,"Lucas, Caroline",Green,12_13,2013-02-01,86.4,office costs,Const Office Tel. Usage/Rental,0000244646
+3930,"Lucas, Caroline",Green,12_13,2012-12-11,1.28,office costs,Postage Purchase,0000230071
+3930,"Lucas, Caroline",Green,12_13,2013-03-01,36.35,office costs,Const Office Tel. Usage/Rental,0000258565
+3930,"Lucas, Caroline",Green,12_13,2012-12-14,52.07,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2012-06-22,153.84,office costs,Stationery Purchase,0000182971
+3930,"Lucas, Caroline",Green,12_13,2013-01-08,91,accommodation,Hotel London Area,0000244643
+3930,"Lucas, Caroline",Green,12_13,2012-09-01,36,office costs,Internet Usage/Rental,0000208079
+3930,"Lucas, Caroline",Green,12_13,2012-09-01,86.4,office costs,Const Office Tel. Usage/Rental,0000208079
+3930,"Lucas, Caroline",Green,12_13,2012-08-01,16.2,office costs,Venue Hire Surgery/Meeting,0000201045
+3930,"Lucas, Caroline",Green,12_13,2012-09-11,8.99,office costs,Other Equip Purchase,0000208070
+3930,"Lucas, Caroline",Green,12_13,2013-01-30,91,accommodation,Hotel London Area,0000244643
+3930,"Lucas, Caroline",Green,12_13,2013-02-01,1047.6,office costs,Const Office Rent,0000244646
+3930,"Lucas, Caroline",Green,12_13,2012-12-06,228,accommodation,Hotel London Area,0000230047
+3930,"Lucas, Caroline",Green,12_13,2012-12-03,1047.6,office costs,Const Office Rent,0000230078
+3930,"Lucas, Caroline",Green,12_13,2012-06-25,27.8,travel,Public Tr RAIL MP Staff - RTN,0000190997
+3930,"Lucas, Caroline",Green,12_13,2012-04-19,195,accommodation,Hotel London Area,0000167127
+3930,"Lucas, Caroline",Green,12_13,2012-06-26,201,accommodation,Hotel London Area,0000190995
+3930,"Lucas, Caroline",Green,12_13,2012-07-18,27.5,travel,Public Tr RAIL MP Staff - RTN,0000201050
+3930,"Lucas, Caroline",Green,12_13,2012-05-05,15.27,office costs,Professional Services,0000191011
+3930,"Lucas, Caroline",Green,12_13,2012-07-05,342,accommodation,Hotel London Area,0000190995
+3930,"Lucas, Caroline",Green,12_13,2012-09-12,65,accommodation,Hotel London Area,0000208078
+3930,"Lucas, Caroline",Green,12_13,2013-02-18,43.1,travel,Public Tr RAIL MP Staff - RTN,0000258552
+3930,"Lucas, Caroline",Green,12_13,2012-07-02,10.2,travel,Taxi Working Late After 9pm,0000190997
+3930,"Lucas, Caroline",Green,12_13,2013-01-03,1047.6,office costs,Const Office Rent,0000244646
+3930,"Lucas, Caroline",Green,12_13,2012-09-06,167.4,office costs,Venue Hire Surgery/Meeting,0000212997
+3930,"Lucas, Caroline",Green,12_13,2012-04-05,15.6,office costs,Professional Services,0000176961
+3930,"Lucas, Caroline",Green,12_13,2012-11-20,114,accommodation,Hotel London Area,0000230047
+3930,"Lucas, Caroline",Green,12_13,2013-03-07,16.38,office costs,Software Purchase,0000264642
+3930,"Lucas, Caroline",Green,12_13,2013-03-19,119,accommodation,Hotel London Area,0000258550
+3930,"Lucas, Caroline",Green,12_13,2012-07-17,249.8,office costs,Stationery Purchase,0000201045
+3930,"Lucas, Caroline",Green,12_13,2013-01-03,36,office costs,Internet Usage/Rental,0000244646
+3930,"Lucas, Caroline",Green,12_13,2012-05-31,6.86,office costs,Stationery Purchase,0000191025
+3930,"Lucas, Caroline",Green,12_13,2012-08-31,22.5,travel,Public Tr RAIL MP Staff - RTN,0000208076
+3930,"Lucas, Caroline",Green,12_13,2013-02-19,8.54,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2012-06-08,151.2,office costs,Venue Hire Surgery/Meeting,0000191011
+3930,"Lucas, Caroline",Green,12_13,2012-12-13,114,accommodation,Hotel London Area,0000230047
+3930,"Lucas, Caroline",Green,12_13,2012-11-01,987.6,office costs,Const Office Rent,0000231672
+3930,"Lucas, Caroline",Green,12_13,2012-05-01,86.4,office costs,Const Office Tel. Usage/Rental,0000176961
+3930,"Lucas, Caroline",Green,12_13,2012-10-01,36,office costs,Internet Usage/Rental,0000212990
+3930,"Lucas, Caroline",Green,12_13,2012-06-08,151.2,office costs,Venue Hire Surgery/Meeting,0000201045
+3930,"Lucas, Caroline",Green,12_13,2012-10-01,86.4,office costs,Const Office Tel. Usage/Rental,0000212990
+3930,"Lucas, Caroline",Green,12_13,2013-02-05,86.4,office costs,Venue Hire Surgery/Meeting,0000258565
+3930,"Lucas, Caroline",Green,12_13,2012-07-18,2,travel,Public Tr BUS MP Staff,0000201050
+3930,"Lucas, Caroline",Green,12_13,2013-03-13,119,accommodation,Hotel London Area,0000258550
+3930,"Lucas, Caroline",Green,12_13,2012-11-01,86.4,office costs,Const Office Tel. Usage/Rental,0000217096
+3930,"Lucas, Caroline",Green,12_13,2013-03-15,0.12,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2013-01-18,28.4,travel,Public Tr RAIL MP Staff - RTN,0000244640
+3930,"Lucas, Caroline",Green,12_13,2012-06-11,22.5,travel,Public Tr RAIL MP Staff - RTN,0000190997
+3930,"Lucas, Caroline",Green,12_13,2012-07-01,36,office costs,Internet Usage/Rental,0000191025
+3930,"Lucas, Caroline",Green,12_13,2012-05-16,65,accommodation,Hotel London Area,0000176957
+3930,"Lucas, Caroline",Green,12_13,2012-11-05,388.08,office costs,Stationery Purchase,0000217096
+3930,"Lucas, Caroline",Green,12_13,2012-08-01,86.4,office costs,Const Office Tel. Usage/Rental,0000201045
+3930,"Lucas, Caroline",Green,12_13,2012-06-22,20.24,office costs,Stationery Purchase,0000182971
+3930,"Lucas, Caroline",Green,12_13,2012-06-08,30.14,office costs,Const Office Tel. Usage/Rental,0000201045
+3930,"Lucas, Caroline",Green,12_13,2012-10-25,150,accommodation,Hotel London Area,0000216987
+3930,"Lucas, Caroline",Green,12_13,2012-11-06,87,accommodation,Hotel London Area,0000230047
+3930,"Lucas, Caroline",Green,12_13,2012-11-15,27.9,travel,Public Tr RAIL MP Staff - RTN,0000230068
+3930,"Lucas, Caroline",Green,12_13,2012-10-01,15,office costs,Venue Hire Surgery/Meeting,0000212997
+3930,"Lucas, Caroline",Green,12_13,2012-08-01,49.01,office costs,Const Office Tel. Usage/Rental,0000201045
+3930,"Lucas, Caroline",Green,12_13,2012-07-01,987.6,office costs,Const Office Rent,0000191025
+3930,"Lucas, Caroline",Green,12_13,2012-12-17,140.4,office costs,Venue Hire Surgery/Meeting,0000230078
+3930,"Lucas, Caroline",Green,12_13,2012-08-01,36,office costs,Internet Usage/Rental,0000201045
+3930,"Lucas, Caroline",Green,12_13,2013-02-01,28.4,travel,Public Tr RAIL MP Staff - RTN,0000244640
+3930,"Lucas, Caroline",Green,12_13,2012-09-18,11.25,office costs,Postage Purchase,0000208070
+3930,"Lucas, Caroline",Green,12_13,2012-06-01,36,office costs,Internet Usage/Rental,0000201045
+3930,"Lucas, Caroline",Green,12_13,2012-07-09,27.5,travel,Public Tr RAIL MP Staff - RTN,0000201050
+3930,"Lucas, Caroline",Green,12_13,2013-03-15,101.45,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2012-11-05,3.45,office costs,Stationery Purchase,0000217096
+3930,"Lucas, Caroline",Green,12_13,2012-06-14,150,accommodation,Hotel London Area,0000191032
+3930,"Lucas, Caroline",Green,12_13,2012-06-01,987.6,office costs,Const Office Rent,0000201045
+3930,"Lucas, Caroline",Green,12_13,2012-11-01,36,office costs,Internet Usage/Rental,0000217096
+3930,"Lucas, Caroline",Green,12_13,2013-02-01,48,office costs,Internet Usage/Rental,0000244646
+3930,"Lucas, Caroline",Green,12_13,2012-12-14,52.07,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2013-03-15,95.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2012-08-01,987.6,office costs,Const Office Rent,0000201045
+3930,"Lucas, Caroline",Green,12_13,2012-12-07,24.3,travel,Public Tr RAIL MP Staff - RTN,0000230068
+3930,"Lucas, Caroline",Green,12_13,2013-03-15,0.31,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2012-05-15,18.8,office costs,Const Office Tel. Usage/Rental,0000182971
+3930,"Lucas, Caroline",Green,12_13,2013-01-15,86.4,office costs,Venue Hire Surgery/Meeting,0000244646
+3930,"Lucas, Caroline",Green,12_13,2012-08-08,15.86,office costs,Professional Services,0000201380
+3930,"Lucas, Caroline",Green,12_13,2012-04-12,49.3,travel,Public Tr RAIL MP Staff - RTN,0000167128
+3930,"Lucas, Caroline",Green,12_13,2012-07-18,2,travel,Public Tr BUS MP Staff,0000201050
+3930,"Lucas, Caroline",Green,12_13,2012-11-05,15,office costs,Venue Hire Surgery/Meeting,0000230071
+3930,"Lucas, Caroline",Green,12_13,2012-09-06,54.1,office costs,Const Office Tel. Usage/Rental,0000212997
+3930,"Lucas, Caroline",Green,12_13,2012-11-15,162,office costs,Venue Hire Surgery/Meeting,0000230078
+3930,"Lucas, Caroline",Green,12_13,2013-02-12,119,accommodation,Hotel London Area,0000244643
+3930,"Lucas, Caroline",Green,12_13,2013-03-01,151.2,office costs,Venue Hire Surgery/Meeting,0000258565
+3930,"Lucas, Caroline",Green,12_13,2012-11-16,120,office costs,Venue Hire Surgery/Meeting,0000230071
+3930,"Lucas, Caroline",Green,12_13,2012-07-01,86.4,office costs,Const Office Tel. Usage/Rental,0000191025
+3930,"Lucas, Caroline",Green,12_13,2012-05-01,87,accommodation,Hotel London Area,0000171988
+3930,"Lucas, Caroline",Green,12_13,2013-03-15,95.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,12_13,2013-03-01,48,office costs,Internet Usage/Rental,0000258565
+3930,"Lucas, Caroline",Green,12_13,2012-12-17,29.88,office costs,Const Office Tel. Usage/Rental,0000230078
+3930,"Lucas, Caroline",Green,12_13,2012-09-01,987.6,office costs,Const Office Rent,0000208079
+3930,"Lucas, Caroline",Green,12_13,2012-12-07,27.5,travel,Public Tr RAIL MP Staff - RTN,0000230068
+3930,"Lucas, Caroline",Green,12_13,2012-04-17,10.6,travel,Taxi after Late Sitting 11pm,0000167128
+3930,"Lucas, Caroline",Green,12_13,2013-01-22,238,accommodation,Hotel London Area,0000244643
+3930,"Lucas, Caroline",Green,12_13,2013-01-15,41.39,office costs,Const Office Tel. Usage/Rental,0000244646
+3930,"Lucas, Caroline",Green,12_13,2012-11-01,65,accommodation,Hotel London Area,0000216987
+3930,"Lucas, Caroline",Green,12_13,2012-08-21,107.5,office costs,Stationery Purchase,0000201045
+3930,"Lucas, Caroline",Green,12_13,2012-05-01,36,office costs,Internet Usage/Rental,0000176961
+3930,"Lucas, Caroline",Green,12_13,2012-06-13,101.12,office costs,Stationery Purchase,0000191011
+3930,"Lucas, Caroline",Green,12_13,2013-03-08,144,office costs,Newspapers/Journals,0000258565
+3930,"Lucas, Caroline",Green,12_13,2012-12-03,86.4,office costs,Const Office Tel. Usage/Rental,0000230078
+3930,"Lucas, Caroline",Green,12_13,2012-04-24,65,accommodation,Hotel London Area,0000171988
+3930,"Lucas, Caroline",Green,12_13,2012-06-25,7,travel,Taxi MP Staff,0000190997
+3930,"Lucas, Caroline",Green,12_13,2012-05-15,97.2,office costs,Venue Hire Surgery/Meeting,0000182971
+3930,"Lucas, Caroline",Green,12_13,2013-01-16,119,accommodation,Hotel London Area,0000244643
+3930,"Lucas, Caroline",Green,12_13,2013-02-06,91,accommodation,Hotel London Area,0000244643
+3930,"Lucas, Caroline",Green,12_13,2013-02-08,15.78,office costs,Professional Services,0000244646
+3930,"Lucas, Caroline",Green,12_13,2013-03-26,118.8,accommodation,Hotel London Area,0000258550
+3930,"Lucas, Caroline",Green,12_13,2012-10-04,49.8,office costs,Const Office Tel. Usage/Rental,0000217096
+3930,"Lucas, Caroline",Green,12_13,2012-05-08,9.75,office costs,Postage Purchase,0000176961
+3930,"Lucas, Caroline",Green,12_13,2012-06-11,5.6,travel,Taxi MP Staff,0000190997
+3930,"Lucas, Caroline",Green,12_13,2012-12-19,174,accommodation,Hotel London Area,0000230047
+3930,"Lucas, Caroline",Green,13_14,2013-04-01,86.4,office costs,Const Office Tel. Usage/Rental,0000258565
+3930,"Lucas, Caroline",Green,13_14,2013-07-28,167.18,office costs,Stationery Purchase,303836
+3930,"Lucas, Caroline",Green,13_14,2013-12-11,44.64,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-04-01,1047.6,office costs,Const Office Rent,0000258565
+3930,"Lucas, Caroline",Green,13_14,2013-12-05,32,travel,Public Tr RAIL MP Staff - RTN,0000319272
+3930,"Lucas, Caroline",Green,13_14,2013-05-21,119,accommodation,Hotel London Area,0000276009
+3930,"Lucas, Caroline",Green,13_14,2013-04-04,248,office costs,Venue Hire Surgery/Meeting,0000258565
+3930,"Lucas, Caroline",Green,13_14,2014-02-06,48.00,office costs,Internet Usage/Rental,0000344556
+3930,"Lucas, Caroline",Green,13_14,2013-09-10,220.13,office costs,Stationery Purchase,303836
+3930,"Lucas, Caroline",Green,13_14,2013-07-17,59,accommodation,Hotel London Area,0000288685
+3930,"Lucas, Caroline",Green,13_14,2014-02-11,182.00,accommodation,Hotel London Area,0000343670
+3930,"Lucas, Caroline",Green,13_14,2013-09-03,91,accommodation,Hotel London Area,303262
+3930,"Lucas, Caroline",Green,13_14,2013-04-16,186,accommodation,Hotel London Area,0000258550
+3930,"Lucas, Caroline",Green,13_14,2013-08-01,205.03,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-12-05,17,travel,Taxi MP Staff,0000319272
+3930,"Lucas, Caroline",Green,13_14,2013-09-11,357,accommodation,Hotel London Area,303262
+3930,"Lucas, Caroline",Green,13_14,2013-11-12,40.48,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-11-25,827.33,office costs,Computer HW Purchase,313433
+3930,"Lucas, Caroline",Green,13_14,2014-02-04,91.00,accommodation,Hotel London Area,0000343670
+3930,"Lucas, Caroline",Green,13_14,2013-12-16,45.07,office costs,Const Office Tel. Usage/Rental,0000320822
+3930,"Lucas, Caroline",Green,13_14,2013-09-03,40.58,office costs,Const Office Tel. Usage/Rental,303837
+3930,"Lucas, Caroline",Green,13_14,2013-07-01,86.4,office costs,Const Office Tel. Usage/Rental,0000285827
+3930,"Lucas, Caroline",Green,13_14,2013-10-25,28.4,travel,Public Tr RAIL MP Staff - RTN,313453
+3930,"Lucas, Caroline",Green,13_14,2013-09-05,188.4,office costs,Venue Hire Surgery/Meeting,303837
+3930,"Lucas, Caroline",Green,13_14,2013-12-16,1047.6,office costs,Const Office Rent,0000319274
+3930,"Lucas, Caroline",Green,13_14,2014-02-13,49.34,office costs,Const Office Tel. Usage/Rental,0000344556
+3930,"Lucas, Caroline",Green,13_14,2013-05-03,32.7,travel,Public Tr RAIL MP Staff - RTN,0000285826
+3930,"Lucas, Caroline",Green,13_14,2013-07-01,48,office costs,Internet Usage/Rental,0000285827
+3930,"Lucas, Caroline",Green,13_14,2014-03-26,86.40,office costs,Const Office Tel. Usage/Rental,0000350786
+3930,"Lucas, Caroline",Green,13_14,2013-10-15,119,accommodation,Hotel London Area,0000309657
+3930,"Lucas, Caroline",Green,13_14,2013-11-08,28.4,travel,Public Tr RAIL MP Staff - RTN,313453
+3930,"Lucas, Caroline",Green,13_14,2014-02-19,180.00,office costs,Venue Hire Surgery/Meeting,0000344556
+3930,"Lucas, Caroline",Green,13_14,2013-08-01,23.09,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-11-15,96.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-05-15,54,office costs,Venue Hire Surgery/Meeting,0000264526
+3930,"Lucas, Caroline",Green,13_14,2013-11-01,1047.6,office costs,Const Office Rent,313433
+3930,"Lucas, Caroline",Green,13_14,2013-12-16,30.94,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-11-12,2.46,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-10-01,48,office costs,Internet Usage/Rental,303837
+3930,"Lucas, Caroline",Green,13_14,2014-03-07,17.3,travel,Public Tr RAIL MP Staff - RTN,0000344542
+3930,"Lucas, Caroline",Green,13_14,2013-08-20,48,office costs,Internet Usage/Rental,303837
+3930,"Lucas, Caroline",Green,13_14,2013-11-01,86.4,office costs,Const Office Tel. Usage/Rental,313433
+3930,"Lucas, Caroline",Green,13_14,2013-07-19,28.4,travel,Public Tr RAIL MP Staff - RTN,0000285826
+3930,"Lucas, Caroline",Green,13_14,2013-09-05,4928,travel,Public Tr Season Ticket,303262
+3930,"Lucas, Caroline",Green,13_14,2014-03-18,14.47,office costs,Software Purchase,0000350786
+3930,"Lucas, Caroline",Green,13_14,2013-09-17,15.18,office costs,Software Purchase,303851
+3930,"Lucas, Caroline",Green,13_14,2013-05-01,86.4,office costs,Const Office Tel. Usage/Rental,0000264526
+3930,"Lucas, Caroline",Green,13_14,2014-03-31,133520.55,staffing,Payroll,n/a
+3930,"Lucas, Caroline",Green,13_14,2013-11-12,96.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-08-23,4.53,office costs,Stationery Purchase,303836
+3930,"Lucas, Caroline",Green,13_14,2013-06-06,37.5,travel,Public Tr RAIL MP Staff - RTN,0000285826
+3930,"Lucas, Caroline",Green,13_14,2013-07-04,357,accommodation,Hotel London Area,0000288685
+3930,"Lucas, Caroline",Green,13_14,2013-10-14,32.8,travel,Public Tr RAIL MP Staff - RTN,313453
+3930,"Lucas, Caroline",Green,13_14,2013-11-15,96.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2014-01-08,19.09,office costs,Stationery Purchase,Payment to supplier
+3930,"Lucas, Caroline",Green,13_14,2014-01-21,86.4,office costs,Const Office Tel. Usage/Rental,0000330845
+3930,"Lucas, Caroline",Green,13_14,2013-12-02,12.01,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2014-02-18,14.44,office costs,Software Purchase,0000350786
+3930,"Lucas, Caroline",Green,13_14,2013-10-01,1047.6,office costs,Const Office Rent,303837
+3930,"Lucas, Caroline",Green,13_14,2014-01-21,1047.6,office costs,Const Office Rent,0000329356
+3930,"Lucas, Caroline",Green,13_14,2013-08-20,86.4,office costs,Const Office Tel. Usage/Rental,303837
+3930,"Lucas, Caroline",Green,13_14,2013-06-07,16.14,office costs,Professional Services,0000285827
+3930,"Lucas, Caroline",Green,13_14,2013-12-02,32.8,travel,Public Tr RAIL MP Staff - RTN,0000317218
+3930,"Lucas, Caroline",Green,13_14,2013-11-05,86.4,office costs,Venue Hire Surgery/Meeting,313433
+3930,"Lucas, Caroline",Green,13_14,2014-01-16,14.67,office costs,Software Purchase,0000329356
+3930,"Lucas, Caroline",Green,13_14,2013-04-18,28.7,travel,Public Tr RAIL MP Staff - RTN,0000264533
+3930,"Lucas, Caroline",Green,13_14,2013-05-17,28.4,travel,Public Tr RAIL MP Staff - RTN,0000276033
+3930,"Lucas, Caroline",Green,13_14,2014-01-21,64.8,office costs,Venue Hire Surgery/Meeting,0000329356
+3930,"Lucas, Caroline",Green,13_14,2013-11-12,23.09,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2014-01-22,29.76,office costs,Stationery Purchase,Payment to supplier
+3930,"Lucas, Caroline",Green,13_14,2013-05-15,42.08,office costs,Const Office Tel. Usage/Rental,0000264526
+3930,"Lucas, Caroline",Green,13_14,2014-03-21,29.50,travel,Public Tr RAIL MP Staff - RTN,0000350784
+3930,"Lucas, Caroline",Green,13_14,2013-12-11,2.88,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-06-04,150,accommodation,Hotel London Area,0000276009
+3930,"Lucas, Caroline",Green,13_14,2013-08-01,86.4,office costs,Const Office Tel. Usage/Rental,303837
+3930,"Lucas, Caroline",Green,13_14,2013-12-11,182,accommodation,Hotel London Area,0000327349
+3930,"Lucas, Caroline",Green,13_14,2014-03-06,144.00,office costs,Venue Hire Surgery/Meeting,0000344556
+3930,"Lucas, Caroline",Green,13_14,2014-03-26,1047.60,office costs,Const Office Rent,0000350786
+3930,"Lucas, Caroline",Green,13_14,2013-07-01,1047.6,office costs,Const Office Rent,0000285827
+3930,"Lucas, Caroline",Green,13_14,2013-11-18,15.45,office costs,Software Purchase,313450
+3930,"Lucas, Caroline",Green,13_14,2013-07-02,205.2,office costs,Venue Hire Surgery/Meeting,0000285827
+3930,"Lucas, Caroline",Green,13_14,2013-08-01,96.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-07-31,71.19,office costs,Stationery Purchase,0000285827
+3930,"Lucas, Caroline",Green,13_14,2013-06-04,264,office costs,Venue Hire Surgery/Meeting,0000276030
+3930,"Lucas, Caroline",Green,13_14,2013-05-01,18.67,office costs,Training MP Staff,0000264642
+3930,"Lucas, Caroline",Green,13_14,2013-11-12,2.65,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-11-15,0.11,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-08-20,1047.6,office costs,Const Office Rent,303837
+3930,"Lucas, Caroline",Green,13_14,2013-05-08,15.93,office costs,Software Purchase,0000264642
+3930,"Lucas, Caroline",Green,13_14,2013-08-15,36.74,office costs,Const Office Tel. Usage/Rental,303837
+3930,"Lucas, Caroline",Green,13_14,2013-12-17,14.76,office costs,Software Purchase,0000329356
+3930,"Lucas, Caroline",Green,13_14,2014-01-07,91,accommodation,Hotel London Area,0000332377
+3930,"Lucas, Caroline",Green,13_14,2013-09-05,250,travel,Public Tr Season Ticket,303262
+3930,"Lucas, Caroline",Green,13_14,2013-08-01,0.73,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2014-01-15,119,accommodation,Hotel London Area,0000333541
+3930,"Lucas, Caroline",Green,13_14,2013-05-09,52.07,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-08-01,1047.6,office costs,Const Office Rent,303837
+3930,"Lucas, Caroline",Green,13_14,2013-08-16,15.51,office costs,Software Purchase,303851
+3930,"Lucas, Caroline",Green,13_14,2013-11-15,0.14,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-11-06,227,accommodation,Hotel London Area,0000316925
+3930,"Lucas, Caroline",Green,13_14,2014-01-08,29.76,office costs,Stationery Purchase,Payment to supplier
+3930,"Lucas, Caroline",Green,13_14,2014-02-06,1047.60,office costs,Const Office Rent,0000344556
+3930,"Lucas, Caroline",Green,13_14,2013-11-15,96.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-05-16,258,accommodation,Hotel London Area,0000276009
+3930,"Lucas, Caroline",Green,13_14,2013-04-23,91,accommodation,Hotel London Area,0000264529
+3930,"Lucas, Caroline",Green,13_14,2014-02-07,29.5,travel,Public Tr RAIL MP Staff - RTN,0000344554
+3930,"Lucas, Caroline",Green,13_14,2013-04-01,48,office costs,Const Office Tel. Usage/Rental,0000258565
+3930,"Lucas, Caroline",Green,13_14,2013-06-01,48,office costs,Internet Usage/Rental,0000276030
+3930,"Lucas, Caroline",Green,13_14,2013-11-05,47.26,office costs,Const Office Tel. Usage/Rental,313433
+3930,"Lucas, Caroline",Green,13_14,2014-03-17,144.00,office costs,Professional Services,0000344556
+3930,"Lucas, Caroline",Green,13_14,2014-03-05,35.99,office costs,Const Office Tel. Usage/Rental,0000344556
+3930,"Lucas, Caroline",Green,13_14,2013-10-16,15.48,office costs,Software Purchase,313450
+3930,"Lucas, Caroline",Green,13_14,2013-11-25,186,office costs,Stationery Purchase,313433
+3930,"Lucas, Caroline",Green,13_14,2014-02-06,86.40,office costs,Const Office Tel. Usage/Rental,0000344556
+3930,"Lucas, Caroline",Green,13_14,2013-08-01,0.38,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-11-01,48,office costs,Internet Usage/Rental,313433
+3930,"Lucas, Caroline",Green,13_14,2013-10-24,124,accommodation,Hotel London Area,0000309657
+3930,"Lucas, Caroline",Green,13_14,2013-07-16,91,accommodation,Hotel London Area,0000288685
+3930,"Lucas, Caroline",Green,13_14,2013-12-16,86.4,office costs,Const Office Tel. Usage/Rental,0000319274
+3930,"Lucas, Caroline",Green,13_14,2013-05-09,55.43,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-10-15,119,accommodation,Hotel London Area,309657
+3930,"Lucas, Caroline",Green,13_14,2013-10-24,124,accommodation,Hotel London Area,309657
+3930,"Lucas, Caroline",Green,13_14,2013-05-09,52.07,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-11-12,96.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-06-04,91,accommodation,Hotel London Area,0000276009
+3930,"Lucas, Caroline",Green,13_14,2014-01-28,119.00,accommodation,Hotel London Area,0000343670
+3930,"Lucas, Caroline",Green,13_14,2014-03-06,3.4,travel,Public Tr RAIL MP Staff - RTN,0000344542
+3930,"Lucas, Caroline",Green,13_14,2013-07-09,59,accommodation,Hotel London Area,0000288685
+3930,"Lucas, Caroline",Green,13_14,2014-01-17,29.5,travel,Public Tr RAIL MP Staff - RTN,0000329349
+3930,"Lucas, Caroline",Green,13_14,2013-06-01,1047.6,office costs,Const Office Rent,0000276030
+3930,"Lucas, Caroline",Green,13_14,2013-12-17,91,accommodation,Hotel London Area,0000327349
+3930,"Lucas, Caroline",Green,13_14,2013-12-06,21.4,travel,Public Tr RAIL MP Staff - RTN,0000319272
+3930,"Lucas, Caroline",Green,13_14,2013-08-01,96.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-11-15,23.09,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-07-09,16.52,office costs,Software Purchase,303837
+3930,"Lucas, Caroline",Green,13_14,2014-01-13,22.2,travel,Public Tr RAIL MP Staff - RTN,0000329349
+3930,"Lucas, Caroline",Green,13_14,2013-04-04,59.23,office costs,Const Office Tel. Usage/Rental,0000258565
+3930,"Lucas, Caroline",Green,13_14,2014-03-19,248,accommodation,Hotel London Area,352230
+3930,"Lucas, Caroline",Green,13_14,2014-03-06,26.3,travel,Public Tr RAIL MP Staff - RTN,0000344542
+3930,"Lucas, Caroline",Green,13_14,2013-11-12,119,accommodation,Hotel London Area,0000316925
+3930,"Lucas, Caroline",Green,13_14,2013-11-15,24.44,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-06-04,47.33,office costs,Const Office Tel. Usage/Rental,0000276030
+3930,"Lucas, Caroline",Green,13_14,2014-01-08,0.14,office costs,Stationery Purchase,Payment to supplier
+3930,"Lucas, Caroline",Green,13_14,2013-10-01,86.4,office costs,Const Office Tel. Usage/Rental,303837
+3930,"Lucas, Caroline",Green,13_14,2013-05-01,48,office costs,Internet Usage/Rental,0000264526
+3930,"Lucas, Caroline",Green,13_14,2014-02-06,33.30,office costs,Const Office Tel. Usage/Rental,0000344556
+3930,"Lucas, Caroline",Green,13_14,2013-12-16,48,office costs,Internet Usage/Rental,0000319274
+3930,"Lucas, Caroline",Green,13_14,2013-11-25,36.52,office costs,Stationery Purchase,313433
+3930,"Lucas, Caroline",Green,13_14,2013-11-15,102.52,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-07-02,33.01,office costs,Const Office Tel. Usage/Rental,0000285827
+3930,"Lucas, Caroline",Green,13_14,2014-01-08,1.1,office costs,Stationery Purchase,Payment to supplier
+3930,"Lucas, Caroline",Green,13_14,2013-11-12,96.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-11-12,205.03,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2014-03-26,48.00,office costs,Internet Usage/Rental,0000350786
+3930,"Lucas, Caroline",Green,13_14,2014-03-17,169.46,office costs,Stationery Purchase,0000344556
+3930,"Lucas, Caroline",Green,13_14,2013-05-09,52.07,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-04-09,16.29,office costs,Software Purchase,0000264642
+3930,"Lucas, Caroline",Green,13_14,2013-09-13,28.4,travel,Public Tr RAIL MP Staff - RTN,0000303835
+3930,"Lucas, Caroline",Green,13_14,2014-01-08,0.19,office costs,Stationery Purchase,Payment to supplier
+3930,"Lucas, Caroline",Green,13_14,2013-05-01,1047.6,office costs,Const Office Rent,0000264526
+3930,"Lucas, Caroline",Green,13_14,2013-11-12,4.67,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-08-01,48,office costs,Internet Usage/Rental,303837
+3930,"Lucas, Caroline",Green,13_14,2014-01-21,48,office costs,Internet Usage/Rental,0000330845
+3930,"Lucas, Caroline",Green,13_14,2013-11-28,357,accommodation,Hotel London Area,0000327349
+3930,"Lucas, Caroline",Green,13_14,2013-08-01,96.28,office costs,Stationery Purchase,Payment to Supplier
+3930,"Lucas, Caroline",Green,13_14,2013-10-01,26.99,office costs,Const Office Tel. Usage/Rental,313433
+3930,"Lucas, Caroline",Green,13_14,2013-06-11,91,accommodation,Hotel London Area,0000276025
+3930,"Lucas, Caroline",Green,13_14,2014-01-21,75.6,office costs,Venue Hire Surgery/Meeting,0000329356
+3930,"Lucas, Caroline",Green,13_14,2014-01-23,119,accommodation,Hotel London Area,0000333541
+3930,"Lucas, Caroline",Green,13_14,2013-08-15,57.6,office costs,Venue Hire Surgery/Meeting,303837
+3930,"Lucas, Caroline",Green,13_14,2013-06-01,86.4,office costs,Const Office Tel. Usage/Rental,0000276030
+3930,"Lucas, Caroline",Green,14_15,2014-10-01,86.4,office costs,Const Office Tel. Usage/Rental,386837
+3930,"Lucas, Caroline",Green,14_15,2014-04-28,12,travel,Taxi Working Late After 9pm,372813
+3930,"Lucas, Caroline",Green,14_15,2014-07-03,31.6,travel,Public Tr RAIL MP Staff - RTN,372813
+3930,"Lucas, Caroline",Green,14_15,2014-05-30,86.4,office costs,Const Office Tel. Usage/Rental,375887
+3930,"Lucas, Caroline",Green,14_15,2014-07-16,95,accommodation,Hotel London Area,373595
+3930,"Lucas, Caroline",Green,14_15,2014-06-05,827.33,office costs,Other Equip Purchase,372826
+3930,"Lucas, Caroline",Green,14_15,2014-08-26,0.29,office costs,Other,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-04-16,14.38,office costs,Software Purchase,375887
+3930,"Lucas, Caroline",Green,14_15,2014-08-26,96.28,office costs,Stationery Purchase,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-06-17,29.17,office costs,Software Purchase,372826
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,253.38,office costs,Stationery Purchase,372826
+3930,"Lucas, Caroline",Green,14_15,2014-06-27,96.28,office costs,Stationery Purchase,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-04-01,72.00,office costs,Const Office Tel. Usage/Rental,0000350786
+3930,"Lucas, Caroline",Green,14_15,2014-08-26,69.04,office costs,Stationery Purchase,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-10-19,417.3,office costs,Computer HW Purchase,388266
+3930,"Lucas, Caroline",Green,14_15,2014-04-07,45.20,office costs,Const Office Tel. Usage/Rental,0000350786
+3930,"Lucas, Caroline",Green,14_15,2014-05-30,48,office costs,Internet Usage/Rental,375887
+3930,"Lucas, Caroline",Green,14_15,2014-10-01,57.6,office costs,Venue Hire Surgery/Meeting,386837
+3930,"Lucas, Caroline",Green,14_15,2014-04-01,240,office costs,Const Office Rent,360680
+3930,"Lucas, Caroline",Green,14_15,2014-09-05,41.08,office costs,Const Office Tel. Usage/Rental,386837
+3930,"Lucas, Caroline",Green,14_15,2014-10-01,2.4,office costs,Other,386837
+3930,"Lucas, Caroline",Green,14_15,2014-07-31,138,office costs,Venue Hire Surgery/Meeting,377528
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,108,office costs,Venue Hire Surgery/Meeting,372826
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,1440,office costs,Const Office Rent,375887
+3930,"Lucas, Caroline",Green,14_15,2014-08-20,450,staffing,Staff Training Costs,377527
+3930,"Lucas, Caroline",Green,14_15,2014-04-04,30.00,office costs,Venue Hire Surgery/Meeting,0000350786
+3930,"Lucas, Caroline",Green,14_15,2014-07-08,95,accommodation,Hotel London Area,373595
+3930,"Lucas, Caroline",Green,14_15,2014-05-30,29.6,office costs,Const Office Tel. Usage/Rental,372826
+3930,"Lucas, Caroline",Green,14_15,2014-10-20,1440,office costs,Const Office Rent,386837
+3930,"Lucas, Caroline",Green,14_15,2014-08-22,30,travel,Public Tr RAIL MP Staff - RTN,377529
+3930,"Lucas, Caroline",Green,14_15,2014-04-04,391.36,office costs,Stationery Purchase,0000350786
+3930,"Lucas, Caroline",Green,14_15,2014-06-17,95,accommodation,Hotel London Area,370680
+3930,"Lucas, Caroline",Green,14_15,2014-06-09,24.1,travel,Public Tr RAIL MP Staff - RTN,372813
+3930,"Lucas, Caroline",Green,14_15,2014-08-01,1440,office costs,Const Office Rent,377528
+3930,"Lucas, Caroline",Green,14_15,2014-04-01,1200.00,office costs,Const Office Rent,0000350786
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,189.6,office costs,Venue Hire Surgery/Meeting,372826
+3930,"Lucas, Caroline",Green,14_15,2014-06-27,102.52,office costs,Stationery Purchase,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-04-04,74.40,office costs,Venue Hire Surgery/Meeting,0000350786
+3930,"Lucas, Caroline",Green,14_15,2014-07-01,70,accommodation,Hotel London Area,373595
+3930,"Lucas, Caroline",Green,14_15,2014-07-18,26.3,travel,Public Tr RAIL MP Staff - RTN,372813
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,2.64,office costs,Waste Disposal,372826
+3930,"Lucas, Caroline",Green,14_15,2014-05-16,31.6,travel,Public Tr RAIL MP Staff - RTN,372813
+3930,"Lucas, Caroline",Green,14_15,2014-08-26,96.28,office costs,Stationery Purchase,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-07-18,30,travel,Public Tr RAIL MP Staff - RTN,388514
+3930,"Lucas, Caroline",Green,14_15,2014-08-18,29.42,office costs,Software Purchase,377528
+3930,"Lucas, Caroline",Green,14_15,2014-08-01,86.4,office costs,Const Office Tel. Usage/Rental,377528
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,48,office costs,Internet Usage/Rental,375887
+3930,"Lucas, Caroline",Green,14_15,2014-07-16,28.7,office costs,Software Purchase,372826
+3930,"Lucas, Caroline",Green,14_15,2014-08-26,96.28,office costs,Stationery Purchase,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-09-04,3.6,office costs,Other,386837
+3930,"Lucas, Caroline",Green,14_15,2014-04-07,45.2,office costs,Const Office Tel. Usage/Rental,360680
+3930,"Lucas, Caroline",Green,14_15,2014-05-14,29.24,office costs,Software Purchase,372826
+3930,"Lucas, Caroline",Green,14_15,2014-05-30,1440,office costs,Const Office Rent,375887
+3930,"Lucas, Caroline",Green,14_15,2014-10-01,1440,office costs,Const Office Rent,386837
+3930,"Lucas, Caroline",Green,14_15,2014-05-02,16.4,travel,Public Tr RAIL MP Staff - RTN,372813
+3930,"Lucas, Caroline",Green,14_15,2014-06-27,96.28,office costs,Stationery Purchase,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-09-16,30.24,office costs,Software Purchase,387800
+3930,"Lucas, Caroline",Green,14_15,2014-04-01,40.00,office costs,Internet Usage/Rental,0000350786
+3930,"Lucas, Caroline",Green,14_15,2014-09-30,30,travel,Public Tr RAIL MP Staff - RTN,377529
+3930,"Lucas, Caroline",Green,14_15,2014-08-01,48,office costs,Internet Usage/Rental,377528
+3930,"Lucas, Caroline",Green,14_15,2014-04-29,95,accommodation,Hotel London Area,362287
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,33.71,office costs,Const Office Tel. Usage/Rental,372826
+3930,"Lucas, Caroline",Green,14_15,2014-09-04,84,office costs,Venue Hire Surgery/Meeting,386837
+3930,"Lucas, Caroline",Green,14_15,2014-10-01,48,office costs,Internet Usage/Rental,386837
+3930,"Lucas, Caroline",Green,14_15,2014-08-07,73.45,office costs,Const Office Tel. Usage/Rental,377528
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,48,office costs,Internet Usage/Rental,375887
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,86.4,office costs,Const Office Tel. Usage/Rental,375887
+3930,"Lucas, Caroline",Green,14_15,2014-10-20,48,office costs,Internet Usage/Rental,386837
+3930,"Lucas, Caroline",Green,14_15,2014-04-11,29.50,travel,Public Tr RAIL MP Staff - RTN,0000350784
+3930,"Lucas, Caroline",Green,14_15,2014-08-07,158.4,office costs,Venue Hire Surgery/Meeting,377528
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,57.6,office costs,Advertising,372826
+3930,"Lucas, Caroline",Green,14_15,2014-09-08,30,travel,Public Tr RAIL MP Staff - RTN,377529
+3930,"Lucas, Caroline",Green,14_15,2014-08-26,4.344,office costs,Stationery Purchase,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-10-13,220.13,office costs,Stationery Purchase,386837
+3930,"Lucas, Caroline",Green,14_15,2014-08-20,480,staffing,Staff Training Costs,377527
+3930,"Lucas, Caroline",Green,14_15,2014-10-16,30.81,office costs,Software Purchase,387800
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,0.76,office costs,Stationery Purchase,372826
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,86.4,office costs,Const Office Tel. Usage/Rental,375887
+3930,"Lucas, Caroline",Green,14_15,2014-04-01,14.4,office costs,Const Office Tel. Usage/Rental,360680
+3930,"Lucas, Caroline",Green,14_15,2014-04-04,74.4,office costs,Venue Hire Surgery/Meeting,360680
+3930,"Lucas, Caroline",Green,14_15,2014-06-27,46.536,office costs,Stationery Purchase,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-10-20,84,office costs,Const Office Tel. Usage/Rental,386837
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,1440,office costs,Const Office Rent,375887
+3930,"Lucas, Caroline",Green,14_15,2014-06-27,96.28,office costs,Stationery Purchase,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-10-13,57.29,office costs,Const Office Tel. Usage/Rental,386837
+3930,"Lucas, Caroline",Green,14_15,2014-08-26,102.52,office costs,Stationery Purchase,Payment To Supplier
+3930,"Lucas, Caroline",Green,14_15,2014-07-21,95,accommodation,Hotel London Area,373595
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,96.28,office costs,Stationery Purchase,372826
+3930,"Lucas, Caroline",Green,14_15,2014-04-01,8,office costs,Internet Usage/Rental,360680
+3930,"Lucas, Caroline",Green,14_15,2014-09-17,29.9,travel,Public Tr RAIL MP Staff - RTN,377529
+3930,"Lucas, Caroline",Green,14_15,2014-07-24,20.4,office costs,Stationery Purchase,372826

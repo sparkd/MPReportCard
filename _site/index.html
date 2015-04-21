@@ -1,0 +1,483 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <title>MP Report Card</title>
+    <link rel="stylesheet" href="/styles/index.css">
+    <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
+
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-8">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#"><span>MP</span> Report Card 2015</a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#mp">MPs</a></li>
+                        <li><a href="#stats">Stats</a></li>
+                        <li><a href="#about">About</a></li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- On >medium this takes up 4 cols, but is hidden for small -->
+            <div class="col-sm-4 hidden-xs pull-right" data-region="search"></div>
+
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<!-- Main app body -->
+
+<section id="appBody" data-region="body"></section>
+
+<footer data-region="footer">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+            </div>
+            <div class="col-sm-6">
+                <div class="sparkd"><a target="_blank" title="Open Data experiment by SPARKD" href="http://sparkd.com">An open data experiment by <i class="fa fa-fire"></i> SPARKD</a></div>
+                <p>The information on this site has been curated from a variety of open data sources.  You can read about our data sources <a href="#about">here</a>, and if you spot an inaccuracy please <a href="mailto:hello@sparkd.com">let us know</a> and we'll fix it.</p>
+            </div>
+            <div class="col-sm-3 text-right">
+                <h6>Contact us:</h6>
+                <ul>
+                    <li><a target="_blank" title="Contact us" href="https://twitter.com/_sparkd">@_sparkd</a></li>
+                    <li><a href="mailto:hello@sparkd.com">hello@sparkd.com</a></li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
+
+<!-- Templates -->
+
+<script type="text/template" id="index-page">
+
+    <div class="full">
+
+        <section>
+            <div class="strapline">
+                <h1>How has your MP been doing?</h1>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <div id="home-search">
+                    <!-- home-search form tpl -->
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <h2>&pound;182 million
+                            <small>Expenses</small>
+                        </h2>
+                    </div>
+                    <div class="col-sm-3 interests">
+                        <h2>&pound;42 million
+                            <small>Financial interests</small>
+                        </h2>
+                    </div>
+
+                    <div class="col-sm-3 debates">
+                        <h2>181,&thinsp;642
+                            <small>Debates</small>
+                        </h2>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <h2>325,&thinsp;841
+                            <small>Speeches</small>
+                        </h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="sparkd"><a target="_blank" title="An open data experiment by SPARKD" href="http://sparkd.com">An open data experiment by <i class="fa fa-fire"></i> SPARKD</a></div>
+
+    </div>
+
+</script>
+
+<script type="text/template" id="mp">
+
+    <div class="header header-<%= clsName %>">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-7">
+                    <div class="image"><img class="img-responsive" src="/src/images/<%= id %>.jpg" alt="<%= name %>"></div>
+                    <h1 class="<% if (post) { %>with-post<% } %>"><%= name %></h1>
+
+
+                    <% if (post) { %>
+                    <h6 class="post">
+                        <%= post %>
+                    </h6>
+                    <% } %>
+
+
+                </div>
+                <div class="col-sm-5 text-right">
+                    <h4><strong><%= party %></strong><%= constituency %></h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <table>
+                <tbody>
+                <tr class="inverse">
+                    <th class="col-xs-5">
+                        <h2>Financial Interests</h2>
+
+                        <p><%= interests_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <h3>&pound<%= interests.toLocaleString() %></h3>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('interests') %>
+                    </td>
+                </tr>
+
+                <tr class="inverse">
+                    <th class="col-xs-5">
+                        <h2>Expenses</h2>
+
+                        <p><%= expenses_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <h3>&pound<%= expenses.toLocaleString() %></h3>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('expenses') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Votes</h2>
+
+                        <p><%= votes_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <h3><%= votes_percentage %>&#37;</h3>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('votes_percentage') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Replies to letters</h2>
+
+                        <p><%= replies_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <% if (data_quality_indicator) { %>
+                        <h3><%= replies_percentage %>&#37;</h3>
+                        <% } %>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('replies_percentage') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Debates</h2>
+
+                        <p><%= debates_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <h3><%= debates %></h3>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('debates') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Answers</h2>
+
+                        <p><%= answers_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <% if (!govt) { %>
+                        <h3><%= answers %></h3>
+                        <% } %>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('answers') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Rebel votes</h2>
+
+                        <p><%= rebel_votes_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <h3><%= rebel_votes %></h3>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('rebel_votes') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Early day motions</h2>
+
+                        <p><%= edms_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <% if (!govt) { %>
+                        <h3><%= edms %></h3>
+                        <% } %>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('edms') %>
+                    </td>
+                </tr>
+
+                </tbody>
+
+            </table>
+
+
+        </div>
+
+    </div>
+</script>
+
+<script type="text/template" id="mp-404">
+    <h1>Sorry, we could not find this MP</h1>
+</script>
+
+<script type="text/template" id="mplist-table">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th class="col-xs-3 mp-name" data-sort="string">Name</th>
+                        <th class="col-xs-3 mp-party" data-sort="string">Party</th>
+                        <th class="col-xs-3 mp-constituency" data-sort="string">Constituency</th>
+                        <th class="col-xs-1 mp-interests" data-sort="float">Interests</th>
+                        <th class="col-xs-1 mp-expenses" data-sort="float">Expenses</th>
+                        <th class="col-xs-1 mp-debates" data-sort="int">Debates</th>
+                        <th class="col-xs-1 mp-answers" data-sort="int">Answers</th>
+                        <th class="col-xs-1 mp-votes" data-sort="float">Votes</th>
+                        <th class="col-xs-1 mp-replies" data-sort="float">Replies</th>
+                        <th class="col-xs-1 mp-rebels" data-sort="float">Rebels</th>
+                        <th class="col-xs-1 mp-edms" data-sort="float">EDMS</th>
+                    </tr>
+                    </thead>
+                    <tbody data-item-view-container></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="text/template" id="mplist-row">
+    <td class="text-left <%= clsName %>" data-sort-value="<%= list_name %>"><a href="#mp/<%= id %>"><%= list_name %></a></td>
+    <td class="text-left" data-sort-value="<%= party %>"><%= party_short %></td>
+    <td class="text-left" data-sort-value="<%= constituency %>"><%= constituency %></td>
+    <td data-sort-value="<%= interests %>">&pound;<%= interests.toLocaleString() %></td>
+    <td data-sort-value="<%= expenses %>">&pound;<%= expenses.toLocaleString() %></td>
+    <td><%= debates %></td>
+    <td><%= answers %></td>
+    <td data-sort-value="<%= votes_percentage %>"><%= votes_percentage %>&#37;</td>
+    <td data-sort-value="<%= replies_percentage %>"><%= replies_percentage %>&#37;</td>
+    <td><%= rebel_votes %></td>
+    <td><%= edms %></td>
+</script>
+
+<script type="text/template" id="mplist-empty">
+    Sorry, no MPs found
+</script>
+
+<!-- Stats Page -->
+<script type="text/template" id="stats">
+
+    <div class="header">
+        <div class="container">
+            <div class="row">
+
+                <form>
+
+                    <div class="col-md-2">
+
+                    </div>
+
+                    <div class="col-xs-4">
+
+                        <select class="form-control" id="data-source">
+                            <option value="financial_interests" selected="selected">Financial interests</option>
+                            <option value="expenses">Expenses</option>
+                            <option value="debates">Debates</option>
+                            <option value="votes">Votes</option>
+                            <option value="answers">Answers</option>
+                            <option value="edms">Early Day Motions</option>
+                            <option value="rebel_votes">Rebel votes</option>
+                            <option value="replies">Replies to letters</option>
+                        </select>
+
+                    </div>
+
+                    <div class="col-xs-4 col-md-6">
+
+                        <fieldset id="average-or-total">
+                            <label for="type-total" class="radio-inline">
+                                <input type="radio" name="type" id="type-total" checked="checked" value="total">Party total
+                            </label>
+
+                            <label for="type-average" class="radio-inline">
+                                <input type="radio" name="type" id="type-average" value="average">Average per MP
+                            </label>
+                        </fieldset>
+
+                    </div>
+
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+
+
+        <div class="row">
+
+            <div class="col-xs-12">
+                <h2 id="graph-title">Total financial interests per party.</h2>
+
+                <div class="graph"></div>
+            </div>
+        </div>
+
+    </div>
+
+</script>
+
+<script type="text/template" id="about-page">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-8">
+
+                <h1>Where is this information from?</h1>
+
+                <p>We have collected this from a variety of sources. </p>
+                liz_mcinnes quote?
+                http://www.publications.parliament.uk/pa/cm/cmregmem.htm
+                <h1>About MP Report Card</h1>
+                <h4>What is this site for?</h4>
+
+                <p>This site tries to </p>
+
+                <p></p>
+                <h4>Can I view the data?</h4>
+                <h4>What do the figures mean?</h4>
+                <h4>Where is the data from</h4>
+                <h4>How accurate are these figures?</h4>
+                <h4>Are these figures a good reflection of an MP's performance?</h4>
+                Explain distance
+                <p></p>
+            </div>
+        </div>
+    </div>
+
+</script>
+
+
+<!-- Dependencies -->
+<script src="vendor/bower/jquery/dist/jquery.min.js"></script>
+<script src="vendor/bower/underscore/underscore.js"></script>
+<script src="vendor/bower/backbone/backbone.js"></script>
+<script src="vendor/bower/marionette/lib/backbone.marionette.min.js"></script>
+<script src="vendor/bower/devbridge-autocomplete/src/jquery.autocomplete.js"></script>
+<script src="vendor/stupidtable.min.js"></script>
+<script src="vendor/bower/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="vendor/bower/d3/d3.js"></script>
+<script src="vendor/bower/d3-tip/index.js"></script>
+<script src="vendor/bower/approximate-number/lib/approximate-number.js"></script>
+
+<!-- App and Helpers -->
+<script src="js/App.js"></script>
+<script src="js/helpers/SubAppManager.js"></script>
+<script src="js/Router.js"></script>
+
+<!-- Data -->
+<script src="js/modules/Data/models/MP.js"></script>
+<script src="js/modules/Data/models/MPs.js"></script>
+<script src="js/modules/Data/models/Stats.js"></script>
+<script src="js/modules/Data/index.js"></script>
+
+<!-- Modules -->
+<script src="js/modules/MPList/views/RowView.js"></script>
+<script src="js/modules/MPList/views/EmptyView.js"></script>
+<script src="js/modules/MPList/views/TableView.js"></script>
+<script src="js/modules/MPList/Controller.js"></script>
+<script src="js/modules/MPList/Router.js"></script>
+<script src="js/modules/MPList/index.js"></script>
+
+<script src="js/modules/Page/views/IndexView.js"></script>
+<script src="js/modules/Page/views/AboutView.js"></script>
+<script src="js/modules/Page/Controller.js"></script>
+<script src="js/modules/Page/Router.js"></script>
+<script src="js/modules/Page/index.js"></script>
+
+<script src="js/modules/MP/views/MPView.js"></script>
+<script src="js/modules/MP/Controller.js"></script>
+<script src="js/modules/MP/Router.js"></script>
+<script src="js/modules/MP/index.js"></script>
+
+<script src="js/modules/Stats/views/StatsView.js"></script>
+<script src="js/modules/Stats/Controller.js"></script>
+<script src="js/modules/Stats/Router.js"></script>
+<script src="js/modules/Stats/index.js"></script>
+
+<script src="js/modules/Search/views/SearchView.js"></script>
+
+<!-- Source data -->
+<script src="src/data.js"></script>
+
+<!-- Init -->
+<script src="js/initialize.js"></script>
+
+</body>
+</html>

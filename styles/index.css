@@ -1,0 +1,9 @@
+/*-- Vendor. -------------------------------------------------------------*/
+
+@import "/vendor/bower/bootstrap/dist/css/bootstrap.css";
+@import "/vendor/bower/font-awesome/css/font-awesome.min.css";
+
+
+/*-- Application stylesheets. -----------------------------------------------*/
+
+@import "app.css";

@@ -1,0 +1,520 @@
+id,list_name,party,session,date,value,category,description,claim_number
+1604,"Sharma, Virendra",Labour,12_13,2013-01-23,0.38,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,304.34,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,10_11,2010-05-09,3.2,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-05-15,2.8,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-09-07,3.6,travel,Own Car MP,51809
+1604,"Sharma, Virendra",Labour,10_11,2010-10-15,4.8,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-10-02,4.4,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-09-10,840,constituency rental,Const Office Rent,29504
+1604,"Sharma, Virendra",Labour,10_11,2010-08-04,2,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-11-14,2.8,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-09-05,5.2,travel,Own Car MP,51809
+1604,"Sharma, Virendra",Labour,10_11,2010-05-18,2.8,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-10-12,1.2,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-08-21,6.4,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-10-21,2.4,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-11-17,1.6,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-10-24,4,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-11-30,2.4,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-08-13,4,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-11-21,4.8,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2011-03-23,840,constituency rental,Const Office Rent,78201
+1604,"Sharma, Virendra",Labour,10_11,2010-10-14,1.6,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-05-07,677.42,constituency rental,Const Office Rent,24814
+1604,"Sharma, Virendra",Labour,10_11,2010-11-15,2.4,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-12-17,840,constituency rental,Const Office Rent,57305
+1604,"Sharma, Virendra",Labour,10_11,2011-02-17,273.73,general admin,Payment Telephone/Mobile,78280
+1604,"Sharma, Virendra",Labour,10_11,2010-08-06,1.6,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-09-08,4.4,travel,Own Car MP,51809
+1604,"Sharma, Virendra",Labour,10_11,2010-11-26,4.8,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-08-02,2.4,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2011-02-17,49.35,general admin,Payment Telephone/Mobile,78280
+1604,"Sharma, Virendra",Labour,10_11,2010-11-27,5.6,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-05-14,3.6,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-05-25,2.8,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-11-08,2.4,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-05-31,1.6,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-10-17,5.6,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-11-19,4,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-05-22,4,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-11-03,2.8,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-05-08,4.4,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-11-02,2.4,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-09-17,129.87,general admin,Other,43132
+1604,"Sharma, Virendra",Labour,10_11,2010-05-11,2.8,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-05-28,4.8,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-08-24,3.2,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2011-02-17,48.82,general admin,Payment Telephone/Mobile,78280
+1604,"Sharma, Virendra",Labour,10_11,2010-08-05,3.2,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-08-14,5.6,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-11-06,3.6,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-11-07,3.2,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-11-20,389.61,general admin,Stationery Purchase,52475
+1604,"Sharma, Virendra",Labour,10_11,2010-09-06,6.4,travel,Own Car MP,51809
+1604,"Sharma, Virendra",Labour,10_11,2010-05-24,2.4,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-08-01,4.4,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-10-27,1.2,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-05-16,6,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-10-13,378.32,general admin,Office Furniture Purchase,43132
+1604,"Sharma, Virendra",Labour,10_11,2010-05-17,3.2,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-05-27,2.4,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-05-25,7.59,general admin,Stationery Purchase,29538
+1604,"Sharma, Virendra",Labour,10_11,2010-08-20,4.8,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-08-01,840,constituency rental,Const Office Rent,24814
+1604,"Sharma, Virendra",Labour,10_11,2010-08-03,3.2,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-08-26,4.4,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-09-13,2.4,travel,Own Car MP,51809
+1604,"Sharma, Virendra",Labour,10_11,2010-05-19,2,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-10-16,4,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-08-23,4,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2011-03-23,840,constituency rental,Const Office Rent,78203
+1604,"Sharma, Virendra",Labour,10_11,2010-08-18,4.4,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-11-22,1.6,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-05-10,4,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-10-13,2.4,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-10-11,2.4,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-05-30,5.2,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-05-20,3.2,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2011-03-23,48.26,general admin,Payment Telephone/Mobile,78274
+1604,"Sharma, Virendra",Labour,10_11,2010-05-23,5.6,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-05-13,2.4,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-10-14,129.87,general admin,Other,43132
+1604,"Sharma, Virendra",Labour,10_11,2010-11-18,2.4,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-08-17,49.44,constituency rental,Const Office Tel. Usage/Rental,29247
+1604,"Sharma, Virendra",Labour,10_11,2010-08-19,3.6,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-05-23,29.97,general admin,Stationery Purchase,29538
+1604,"Sharma, Virendra",Labour,10_11,2010-10-11,112.69,general admin,Stationery Purchase,43132
+1604,"Sharma, Virendra",Labour,10_11,2010-05-18,196.92,constituency rental,Const Office Tel. Usage/Rental,29247
+1604,"Sharma, Virendra",Labour,10_11,2010-08-28,3.6,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-10-20,1.6,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-05-07,3.6,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2011-03-23,47.95,general admin,Payment Telephone/Mobile,78274
+1604,"Sharma, Virendra",Labour,10_11,2010-09-04,6,travel,Own Car MP,51809
+1604,"Sharma, Virendra",Labour,10_11,2010-11-24,3.2,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-05-12,4.4,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-09-09,5.6,travel,Own Car MP,51809
+1604,"Sharma, Virendra",Labour,10_11,2010-11-23,2.4,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-05-26,2,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-07-01,840,constituency rental,Const Office Rent,24814
+1604,"Sharma, Virendra",Labour,10_11,2010-10-19,2,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-08-17,5.2,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-10-31,3.6,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-10-25,2.4,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-11-10,2.4,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-06-01,840,constituency rental,Const Office Rent,24814
+1604,"Sharma, Virendra",Labour,10_11,2010-11-12,2.8,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-10-29,4.8,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-10-22,4.4,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-11-20,3.6,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-10-30,5.6,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-08-17,145.17,constituency rental,Const Office Tel. Usage/Rental,29247
+1604,"Sharma, Virendra",Labour,10_11,2010-08-27,5.6,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-10-01,840,constituency rental,Const Office Rent,43086
+1604,"Sharma, Virendra",Labour,10_11,2010-09-11,4.8,travel,Own Car MP,51809
+1604,"Sharma, Virendra",Labour,10_11,2010-11-16,3.2,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-11-25,2,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-11-09,1.6,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2011-03-23,840,constituency rental,Const Office Rent,78198
+1604,"Sharma, Virendra",Labour,10_11,2011-03-23,180.05,general admin,Payment Telephone/Mobile,78274
+1604,"Sharma, Virendra",Labour,10_11,2010-10-26,1.6,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-10-28,840,constituency rental,Const Office Rent,43095
+1604,"Sharma, Virendra",Labour,10_11,2010-09-12,5.6,travel,Own Car MP,51809
+1604,"Sharma, Virendra",Labour,10_11,2010-08-22,2.8,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-10-28,2,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-11-29,1.6,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-05-21,6.4,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-11-05,4,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-08-16,2.8,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-11-28,3.6,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-08-17,64.58,constituency rental,Const Office Tel. Usage/Rental,29247
+1604,"Sharma, Virendra",Labour,10_11,2010-11-11,2,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-11-13,4.4,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-09-30,2.8,travel,Own Car MP,51809
+1604,"Sharma, Virendra",Labour,10_11,2010-08-15,3.6,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,10_11,2010-05-29,5.6,travel,Own Car MP,29243
+1604,"Sharma, Virendra",Labour,10_11,2010-10-18,1.2,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-05-18,53.62,constituency rental,Const Office Tel. Usage/Rental,29247
+1604,"Sharma, Virendra",Labour,10_11,2010-05-18,69.9,constituency rental,Const Office Tel. Usage/Rental,29247
+1604,"Sharma, Virendra",Labour,10_11,2010-10-23,3.2,travel,Own Car MP,58637
+1604,"Sharma, Virendra",Labour,10_11,2010-11-04,4.4,travel,Own Car MP,65855
+1604,"Sharma, Virendra",Labour,10_11,2010-09-10,3.2,travel,Own Car MP,51809
+1604,"Sharma, Virendra",Labour,10_11,2010-08-25,4.8,travel,Own Car MP,43645
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,323.63,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,7.87,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2012-02-24,248.08,office costs,Const Office Tel. Usage/Rental,0000164101
+1604,"Sharma, Virendra",Labour,11_12,2012-02-29,7.58,office costs,Stationery Purchase,0000164101
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,141.48,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2012-03-14,400,staffing,Pooled Staffing Services,0000159888
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,7.87,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2012-02-24,139.2,office costs,Const Office Tel. Usage/Rental,0000164101
+1604,"Sharma, Virendra",Labour,11_12,2011-08-17,156.12,office costs,Const Office Tel. Usage/Rental,117789
+1604,"Sharma, Virendra",Labour,11_12,2011-11-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,11_12,2011-06-08,840,constituency rental,Const Office Rent,95580
+1604,"Sharma, Virendra",Labour,11_12,2011-08-17,45.31,office costs,Const Office Tel. Usage/Rental,117789
+1604,"Sharma, Virendra",Labour,11_12,2012-02-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,11_12,2011-08-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,11_12,2012-03-09,350,office costs,Contact Cards,0000159827
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,20.54,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2011-05-18,61.24,general admin,Payment Telephone/Mobile,95591
+1604,"Sharma, Virendra",Labour,11_12,2011-08-17,48.32,office costs,Const Office Tel. Usage/Rental,117789
+1604,"Sharma, Virendra",Labour,11_12,2011-05-12,181.74,general admin,Stationery Purchase,96012
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,28.7,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2011-06-28,322.83,office costs,Stationery Purchase,109416
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,195.59,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2011-05-11,400.88,office costs,Stationery Purchase,109416
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,101.73,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2011-10-27,12.7,office costs,Stationery Purchase,117789
+1604,"Sharma, Virendra",Labour,11_12,2011-05-18,59.97,general admin,Payment Telephone/Mobile,95591
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,815.58,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2011-04-01,81.53,office costs,Other,81140
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,97.02,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2011-06-28,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,11_12,2012-03-09,300,office costs,Advertising,0000159827
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,74.66,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2011-07-20,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,11_12,2012-03-23,815.59,office costs,Stationery Purchase,0000172271
+1604,"Sharma, Virendra",Labour,11_12,2011-06-29,72.58,office costs,Stationery Purchase,109416
+1604,"Sharma, Virendra",Labour,11_12,2011-09-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,11_12,2012-02-29,194.9,office costs,Stationery Purchase,0000164101
+1604,"Sharma, Virendra",Labour,11_12,2011-12-24,840.00,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,11_12,2011-06-08,840,constituency rental,Const Office Rent,95580
+1604,"Sharma, Virendra",Labour,11_12,2011-05-18,252.69,general admin,Payment Telephone/Mobile,95591
+1604,"Sharma, Virendra",Labour,11_12,2012-01-24,840.00,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,11_12,2011-05-27,840.00,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,11_12,2011-08-17,22.74,office costs,Stationery Purchase,117789
+1604,"Sharma, Virendra",Labour,11_12,2011-10-27,87.55,office costs,Stationery Purchase,117789
+1604,"Sharma, Virendra",Labour,11_12,2012-02-29,347.38,office costs,Stationery Purchase,0000164101
+1604,"Sharma, Virendra",Labour,11_12,2011-08-25,58.75,office costs,Stationery Purchase,117789
+1604,"Sharma, Virendra",Labour,11_12,2012-03-20,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,11_12,2011-10-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,11_12,2011-06-28,322.83,office costs,Stationery Purchase,109416
+1604,"Sharma, Virendra",Labour,11_12,2011-10-21,28.35,office costs,Stationery Purchase,131529
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,5.88,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-11,0.91,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-07-23,140.04,office costs,Stationery Purchase,0000196389
+1604,"Sharma, Virendra",Labour,12_13,2012-05-10,19.63,office costs,Stationery Purchase,0000179072
+1604,"Sharma, Virendra",Labour,12_13,2013-03-05,129.6,office costs,IT/Other Equipment Hire,0000247052
+1604,"Sharma, Virendra",Labour,12_13,2013-03-11,95.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-02-21,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-08-21,273.8,office costs,Const Office Tel. Usage/Rental,0000203315
+1604,"Sharma, Virendra",Labour,12_13,2012-08-16,120.13,office costs,Stationery Purchase,0000203315
+1604,"Sharma, Virendra",Labour,12_13,2012-08-20,129.6,office costs,IT/Other Equipment Hire,0000213336
+1604,"Sharma, Virendra",Labour,12_13,2012-07-17,236.92,office costs,IT/Other Equipment Hire,0000192816
+1604,"Sharma, Virendra",Labour,12_13,2012-11-23,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,190.56,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-06-25,274.31,office costs,Stationery Purchase,0000196389
+1604,"Sharma, Virendra",Labour,12_13,2013-01-07,173.54,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,190.56,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-11,101.45,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-05-25,1200,staffing,Pooled Services,0000181752
+1604,"Sharma, Virendra",Labour,12_13,2012-06-18,124.84,office costs,Stationery Purchase,0000188826
+1604,"Sharma, Virendra",Labour,12_13,2013-01-01,113.4,office costs,IT/Other Equipment Hire,0000238853
+1604,"Sharma, Virendra",Labour,12_13,2012-04-25,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,1.37,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-01-16,384,office costs,Security,0000237432
+1604,"Sharma, Virendra",Labour,12_13,2013-02-15,350,office costs,Software Purchase,0000243752
+1604,"Sharma, Virendra",Labour,12_13,2013-02-04,5.17,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-08-22,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,7.92,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,38.86,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-07-02,6.65,office costs,Stationery Purchase,0000196389
+1604,"Sharma, Virendra",Labour,12_13,2013-03-11,101.45,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-09-17,1.19,office costs,Stationery Purchase,0000209661
+1604,"Sharma, Virendra",Labour,12_13,2012-10-19,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-07-23,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-01-23,86.77,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-11-06,1200,office costs,Professional Services,0000230109
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,27.71,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-01-07,86.77,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,16.75,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-05-15,21.02,office costs,Const Office Tel. Usage/Rental,0000179072
+1604,"Sharma, Virendra",Labour,12_13,2013-03-05,81.56,office costs,Const Office Tel. Usage/Rental,0000255502
+1604,"Sharma, Virendra",Labour,12_13,2013-03-28,1900,office costs,Other,0000253350
+1604,"Sharma, Virendra",Labour,12_13,2012-11-14,40.66,office costs,Stationery Purchase,0000227349
+1604,"Sharma, Virendra",Labour,12_13,2013-01-07,3.05,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-05-23,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-12-19,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-01-07,173.54,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-07-09,85.81,office costs,Stationery Purchase,0000196389
+1604,"Sharma, Virendra",Labour,12_13,2013-03-21,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-10-22,44.66,office costs,Stationery Purchase,0000219211
+1604,"Sharma, Virendra",Labour,12_13,2012-09-17,14.79,office costs,Stationery Purchase,0000209661
+1604,"Sharma, Virendra",Labour,12_13,2013-01-07,277.16,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-11,0.17,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-11,0.55,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,28.92,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-06-19,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-05,47.98,office costs,Const Office Tel. Usage/Rental,0000255502
+1604,"Sharma, Virendra",Labour,12_13,2013-03-07,585,office costs,Venue Hire Surgery/Meeting,0000248877
+1604,"Sharma, Virendra",Labour,12_13,2013-01-07,2.12,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-09-05,94.66,office costs,Stationery Purchase,0000209661
+1604,"Sharma, Virendra",Labour,12_13,2013-03-11,29.45,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-07-31,350,office costs,Software Purchase,0000199037
+1604,"Sharma, Virendra",Labour,12_13,2012-09-17,169.54,office costs,Stationery Purchase,0000209661
+1604,"Sharma, Virendra",Labour,12_13,2013-01-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-05-22,376.4,office costs,IT/Other Equipment Hire,0000187916
+1604,"Sharma, Virendra",Labour,12_13,2012-11-28,325.2,office costs,Stationery Purchase,0000235289
+1604,"Sharma, Virendra",Labour,12_13,2013-03-11,4.93,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-08-16,129.21,office costs,Stationery Purchase,0000203315
+1604,"Sharma, Virendra",Labour,12_13,2013-01-15,286.92,office costs,IT/Other Equipment Hire,0000236571
+1604,"Sharma, Virendra",Labour,12_13,2013-02-15,350,office costs,Software Purchase,0000243845
+1604,"Sharma, Virendra",Labour,12_13,2013-03-11,2.89,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-01-23,14.46,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-08-20,3.14,office costs,Stationery Purchase,0000203315
+1604,"Sharma, Virendra",Labour,12_13,2013-01-08,1200,office costs,Professional Services,0000235099
+1604,"Sharma, Virendra",Labour,12_13,2013-02-20,180,office costs,Venue Hire Surgery/Meeting,0000244948
+1604,"Sharma, Virendra",Labour,12_13,2012-05-21,87.8,office costs,Const Office Tel. Usage/Rental,0000179072
+1604,"Sharma, Virendra",Labour,12_13,2012-11-14,4.09,office costs,Stationery Purchase,0000227349
+1604,"Sharma, Virendra",Labour,12_13,2013-01-25,60,office costs,Venue Hire Surgery/Meeting,0000242004
+1604,"Sharma, Virendra",Labour,12_13,2012-07-09,1200,staffing,Pooled Services,0000192811
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,285.84,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,5.76,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2013-01-07,3.53,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-10-01,113.4,office costs,IT/Other Equipment Hire,0000213336
+1604,"Sharma, Virendra",Labour,12_13,2012-07-30,1200,staffing,Pooled Services,0000199022
+1604,"Sharma, Virendra",Labour,12_13,2012-11-28,10.02,office costs,Stationery Purchase,0000235289
+1604,"Sharma, Virendra",Labour,12_13,2012-05-21,174.27,office costs,Stationery Purchase,0000179072
+1604,"Sharma, Virendra",Labour,12_13,2012-07-09,43.45,office costs,Stationery Purchase,0000196389
+1604,"Sharma, Virendra",Labour,12_13,2013-03-17,275.52,office costs,Contact Cards,0000251836
+1604,"Sharma, Virendra",Labour,12_13,2013-03-22,3.54,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-11-14,32.45,office costs,Stationery Purchase,0000227349
+1604,"Sharma, Virendra",Labour,12_13,2013-01-23,92.39,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-10-16,30,office costs,Venue Hire Surgery/Meeting,0000230119
+1604,"Sharma, Virendra",Labour,12_13,2012-11-20,129.6,office costs,IT/Other Equipment Hire,0000229243
+1604,"Sharma, Virendra",Labour,12_13,2012-12-05,293.47,office costs,Const Office Tel. Usage/Rental,0000235289
+1604,"Sharma, Virendra",Labour,12_13,2012-09-22,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,12_13,2012-10-16,286.92,office costs,IT/Other Equipment Hire,0000229243
+1604,"Sharma, Virendra",Labour,12_13,2012-11-21,104.87,office costs,Stationery Purchase,0000227349
+1604,"Sharma, Virendra",Labour,12_13,2012-06-08,31.91,office costs,Stationery Purchase,0000188826
+1604,"Sharma, Virendra",Labour,13_14,2013-07-01,113.40,office costs,IT/Other Equipment Hire,292184
+1604,"Sharma, Virendra",Labour,13_14,2013-05-09,10.2,office costs,IT/Other Equipment Hire,0000269798
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,14.3,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-08-19,1.68,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-04,120,office costs,Advertising,0000342898
+1604,"Sharma, Virendra",Labour,13_14,2013-05-21,128.23,office costs,Const Office Tel. Usage/Rental,0000274490
+1604,"Sharma, Virendra",Labour,13_14,2014-03-31,134876.92,staffing,Payroll,n/a
+1604,"Sharma, Virendra",Labour,13_14,2013-09-11,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-08-22,182.06,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-28,14.88,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-31,14.62,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-15,44.08,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-24,34.02,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-08-27,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-21,6.74,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-01-06,0,office costs,Const Office Tel. Usage/Rental,0000333443
+1604,"Sharma, Virendra",Labour,13_14,2013-05-31,9.7,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-13,59.1,office costs,Const Office Tel. Usage/Rental,0000303150
+1604,"Sharma, Virendra",Labour,13_14,2014-03-14,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-21,64.41,office costs,Const Office Tel. Usage/Rental,0000274490
+1604,"Sharma, Virendra",Labour,13_14,2014-01-28,66.53,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-12,4.25,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-02-04,-66.53,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-12-02,350,office costs,Software Purchase,0000317255
+1604,"Sharma, Virendra",Labour,13_14,2013-04-01,113.4,office costs,IT/Other Equipment Hire,0000258157
+1604,"Sharma, Virendra",Labour,13_14,2013-07-17,11.86,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-02-21,102.52,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-14,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-01-28,6.78,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-01-28,7.07,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-08-22,-220.75,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-24,10.62,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-01-28,3.04,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-24,10.46,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-12,5.28,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-10-01,113.4,office costs,IT/Other Equipment Hire,305678
+1604,"Sharma, Virendra",Labour,13_14,2013-05-31,3.55,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-24,1.91,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-26,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-12,2.54,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-31,101.45,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-21,0.54,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,6.24,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-31,95.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-01-28,2.9,office costs,Other,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-08-19,5.18,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-21,192.55,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-14,129.6,office costs,IT/Other Equipment Hire,0000338054
+1604,"Sharma, Virendra",Labour,13_14,2013-08-19,5.82,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-21,14.63,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-26,26.27,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-29,4800,staffing,Pooled Services: Direct,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-30,180,office costs,Advertising,0000322452
+1604,"Sharma, Virendra",Labour,13_14,2014-03-12,2.03,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-17,128.09,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,30,office costs,Venue Hire Surgery/Meeting,0000264656
+1604,"Sharma, Virendra",Labour,13_14,2014-01-06,302.63,office costs,Const Office Tel. Usage/Rental,0000333443
+1604,"Sharma, Virendra",Labour,13_14,2013-07-26,1.1,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-11,102.52,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-21,384,office costs,Security,0000271460
+1604,"Sharma, Virendra",Labour,13_14,2014-03-12,3.56,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-24,14.46,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-29,0,travel,Hotel NOT London Area (Travel),0000280742
+1604,"Sharma, Virendra",Labour,13_14,2013-08-19,131.23,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-15,129.6,office costs,IT/Other Equipment Hire,0000276870
+1604,"Sharma, Virendra",Labour,13_14,2014-01-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-11,21.66,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-01-28,0.11,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-21,8.33,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-17,68.04,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-26,102.52,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-31,25.15,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-14,192.55,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-12,19.63,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-26,4.16,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-21,-102.12,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-06-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-26,7.88,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-14,0.64,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-31,17.23,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-02-05,129.6,office costs,IT/Other Equipment Hire,0000338033
+1604,"Sharma, Virendra",Labour,13_14,2014-01-28,307.55,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,33.7,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-28,8.45,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-24,8.35,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-24,95.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,155.84,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-01-06,0,office costs,Const Office Tel. Usage/Rental,0000332269
+1604,"Sharma, Virendra",Labour,13_14,2014-03-17,126.98,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-25,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-21,6.42,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-12,4.31,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-10,10.69,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-06-27,44.08,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-01,840.00,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-24,0.55,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,11.45,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-13,109.03,office costs,Const Office Tel. Usage/Rental,0000303150
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,14.3,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-21,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-02,-44.08,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-26,599.46,office costs,Furniture Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-24,7.68,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-18,30.00,office costs,Venue Hire Surgery/Meeting,292189
+1604,"Sharma, Virendra",Labour,13_14,2014-03-14,6.78,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-17,126.98,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-06-24,44.08,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,23.72,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,7.26,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-08-31,-131.23,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-18,-44.08,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-31,15.48,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-02,196.8,office costs,Contact Cards,0000266308
+1604,"Sharma, Virendra",Labour,13_14,2013-07-26,220.75,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-14,0.36,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-16,236.92,office costs,IT/Other Equipment Hire,293749
+1604,"Sharma, Virendra",Labour,13_14,2013-07-26,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-21,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-21,17.57,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-11,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-26,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-01-06,94.63,office costs,Const Office Tel. Usage/Rental,0000332269
+1604,"Sharma, Virendra",Labour,13_14,2013-04-10,40.57,office costs,Furniture Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-02-21,0.29,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-11,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-17,126.98,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-17,322.06,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-24,5.66,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,10.6,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-01-01,116.81,office costs,IT/Other Equipment Hire,0000338056
+1604,"Sharma, Virendra",Labour,13_14,2013-11-28,0.17,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-21,37.58,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-08-19,7.28,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-10-24,242.4,office costs,Contact Cards,312872
+1604,"Sharma, Virendra",Labour,13_14,2014-03-17,6.79,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-12-19,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-02-04,-22.04,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-08-27,102.12,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-07-17,18.01,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-03-14,1.06,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-21,0.36,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,5.03,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-01-14,236.92,office costs,IT/Other Equipment Hire,0000331242
+1604,"Sharma, Virendra",Labour,13_14,2014-01-28,8.18,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-31,17.84,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-24,10.9,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-18,946,office costs,Other,0000258840
+1604,"Sharma, Virendra",Labour,13_14,2013-07-17,1.67,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-01-28,2.6,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-02-25,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-08-19,2.88,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-10-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-16,296.92,office costs,IT/Other Equipment Hire,0000260082
+1604,"Sharma, Virendra",Labour,13_14,2014-01-28,22.04,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-05-23,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,5.35,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-24,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-04-30,2.94,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-09-24,3.5,office costs,Other,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-11-28,5.82,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2014-02-21,0.55,office costs,Stationery Purchase,Payment to supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-08-15,129.6,office costs,IT/Other Equipment Hire,304681
+1604,"Sharma, Virendra",Labour,13_14,2013-10-15,261.92,office costs,IT/Other Equipment Hire,306593
+1604,"Sharma, Virendra",Labour,13_14,2013-08-19,5.82,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,13_14,2013-08-09,577.7,office costs,Legal Expenses Insurance,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-08,67.75,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-23,2.32,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-25,96.14,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-23,2.32,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-25,192.55,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-11-06,129.6,office costs,IT/Other Equipment Hire,394906
+1604,"Sharma, Virendra",Labour,14_15,2014-08-05,129.6,office costs,IT/Other Equipment Hire,380017
+1604,"Sharma, Virendra",Labour,14_15,2014-04-25,102.52,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-15,4.65,staffing,Food & Drink Volunteer,379556
+1604,"Sharma, Virendra",Labour,14_15,2014-04-25,1.44,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-15,296.92,office costs,IT/Other Equipment Hire,0000354157
+1604,"Sharma, Virendra",Labour,14_15,2014-09-24,96.28,office costs,Stationery Purchase,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-18,1.5,staffing,Public Tr BUS Volunteer ,379556
+1604,"Sharma, Virendra",Labour,14_15,2014-04-25,22.18,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-06-23,19.032,office costs,Stationery Purchase,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-08-09,577.7,office costs,Legal Exp/Emp Practice Insur.,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-06-25,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-06-17,345.33,office costs,Const Office Tel. Usage/Rental,370571
+1604,"Sharma, Virendra",Labour,14_15,2014-04-08,74.52,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-04,0,office costs,Const Office Tel. Usage/Rental,356638
+1604,"Sharma, Virendra",Labour,14_15,2014-07-24,30.05,office costs,Other Equip Purchase,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-17,3.2,staffing,Public Tr BUS Volunteer ,379556
+1604,"Sharma, Virendra",Labour,14_15,2014-08-27,840,office costs,Const Office Rent,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-02,116.81,office costs,IT/Other Equipment Hire,380012
+1604,"Sharma, Virendra",Labour,14_15,2014-09-24,11.148,office costs,Stationery Purchase,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-24,840.00,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-15,261.92,office costs,IT/Other Equipment Hire,379554
+1604,"Sharma, Virendra",Labour,14_15,2014-09-26,840,office costs,Const Office Rent,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-01,116.81,office costs,IT/Other Equipment Hire,0000352820
+1604,"Sharma, Virendra",Labour,14_15,2014-07-07,12.996,office costs,Other,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-05-08,129.6,office costs,IT/Other Equipment Hire,380004
+1604,"Sharma, Virendra",Labour,14_15,2014-04-08,74.52,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-10-27,840,office costs,Const Office Rent,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-24,840,office costs,Const Office Rent,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-18,7.2,office costs,Other,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-05-27,840,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-04,334.86,office costs,Const Office Tel. Usage/Rental,0000356638
+1604,"Sharma, Virendra",Labour,14_15,2014-04-25,1.92,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-17,3.2,staffing,Public Tr BUS Volunteer ,379556
+1604,"Sharma, Virendra",Labour,14_15,2014-04-25,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-25,1.73,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-16,4,staffing,Food & Drink Volunteer,379556
+1604,"Sharma, Virendra",Labour,14_15,2014-09-24,51.54,office costs,Other,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-08,360.66,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-08,74.52,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-10-14,261.92,office costs,IT/Other Equipment Hire,388516
+1604,"Sharma, Virendra",Labour,14_15,2014-06-06,384,office costs,Security,387462
+1604,"Sharma, Virendra",Labour,14_15,2014-06-09,4800,office costs,Professional Services: Direct,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-25,192.55,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-06-04,5.76,office costs,Stationery Purchase,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-16,1.5,staffing,Public Tr BUS Volunteer ,379556
+1604,"Sharma, Virendra",Labour,14_15,2014-07-07,35.304,office costs,Stationery Purchase,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-10-02,116.81,office costs,IT/Other Equipment Hire,394903
+1604,"Sharma, Virendra",Labour,14_15,2014-04-11,-322.06,office costs,Other Equip Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-18,13.104,office costs,Stationery Purchase,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-23,96.28,office costs,Stationery Purchase,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-04,0,office costs,Const Office Tel. Usage/Rental,0000356638
+1604,"Sharma, Virendra",Labour,14_15,2014-04-01,840.00,office costs,Const Office Rent,Payment to Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-04-02,112.35,office costs,Waste Disposal,0000356638
+1604,"Sharma, Virendra",Labour,14_15,2014-06-04,6.456,office costs,Other,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-06-04,410.06,office costs,Stationery Purchase,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-18,96.28,office costs,Stationery Purchase,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-07-24,24.66,office costs,Furniture Purchase,Payment To Supplier
+1604,"Sharma, Virendra",Labour,14_15,2014-09-24,102.52,office costs,Stationery Purchase,Payment To Supplier

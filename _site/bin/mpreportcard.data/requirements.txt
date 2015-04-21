@@ -1,0 +1,13 @@
+beautifulsoup4
+requests
+requests_cache
+luigi
+wikipedia
+xmltodict
+psycopg2
+sqlalchemy
+python-dateutil
+pymongo
+Pillow
+untangle
+unicodecsv

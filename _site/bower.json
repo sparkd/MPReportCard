@@ -1,0 +1,14 @@
+{
+    "name": "Data portal Roadmap",
+    "dependencies": {
+        "jquery": "latest",
+        "backbone": "latest",
+        "bootstrap": "latest",
+        "underscore": "latest",
+        "marionette": "1.4.1",
+        "font-awesome": "latest",
+        "d3": "latest",
+        "approximate-number": "latest",
+        "d3-tip": "latest"
+    }
+}

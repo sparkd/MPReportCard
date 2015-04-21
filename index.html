@@ -1,1 +1,597 @@
-e
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <title>MP Report Card</title>
+    <link rel="stylesheet" href="/styles/index.css">
+    <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
+
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-8">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#"><span>MP</span> Report Card 2015</a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#mp">MPs</a></li>
+                        <li><a href="#stats">Stats</a></li>
+                        <li><a href="#about">About</a></li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- On >medium this takes up 4 cols, but is hidden for small -->
+            <div class="col-sm-4 hidden-xs pull-right" data-region="search"></div>
+
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<!-- Main app body -->
+
+<section id="appBody" data-region="body"></section>
+
+<footer data-region="footer">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+            </div>
+            <div class="col-sm-6">
+                <div class="sparkd"><a target="_blank" title="Open Data experiment by SPARKD" href="http://sparkd.com">An open data experiment by <i class="fa fa-fire"></i> SPARKD</a></div>
+                <p>The information on this site has been curated from a variety of open data sources. You can read about our data sources <a href="#about">here</a>, and if you spot an inaccuracy
+                    please <a href="mailto:hello@sparkd.com">let us know</a> and we'll fix it.</p>
+            </div>
+            <div class="col-sm-3 text-right">
+                <h6>Contact us:</h6>
+                <ul>
+                    <li><a target="_blank" title="Contact us" href="https://twitter.com/_sparkd">@_sparkd</a></li>
+                    <li><a href="mailto:hello@sparkd.com">hello@sparkd.com</a></li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
+
+<!-- Templates -->
+
+<script type="text/template" id="index-page">
+
+    <div class="full">
+
+        <section>
+            <div class="strapline">
+                <h1>How has your MP been doing?</h1>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <div id="home-search">
+                    <!-- home-search form tpl -->
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <h2>&pound;182 million
+                            <small>Expenses</small>
+                        </h2>
+                    </div>
+                    <div class="col-sm-3 interests">
+                        <h2>&pound;42 million
+                            <small>Financial interests</small>
+                        </h2>
+                    </div>
+
+                    <div class="col-sm-3 debates">
+                        <h2>181,&thinsp;642
+                            <small>Debates</small>
+                        </h2>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <h2>325,&thinsp;841
+                            <small>Speeches</small>
+                        </h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="sparkd"><a target="_blank" title="An open data experiment by SPARKD" href="http://sparkd.com">An open data experiment by <i class="fa fa-fire"></i> SPARKD</a></div>
+
+    </div>
+
+</script>
+
+<script type="text/template" id="mp">
+
+    <div class="header header-<%= clsName %>">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-7">
+                    <div class="image"><img class="img-responsive" src="/src/images/<%= id %>.jpg" alt="<%= name %>"></div>
+                    <h1 class="<% if (post) { %>with-post<% } %>"><%= name %></h1>
+
+
+                    <% if (post) { %>
+                    <h6 class="post">
+                        <%= post %>
+                    </h6>
+                    <% } %>
+
+
+                </div>
+                <div class="col-sm-5 text-right">
+                    <h4><strong><%= party %></strong><%= constituency %></h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <table>
+                <tbody>
+                <tr class="inverse">
+                    <th class="col-xs-5">
+                        <h2>Financial Interests</h2>
+
+                        <p><%= interests_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <h3>&pound<%= interests.toLocaleString() %></h3>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('interests') %>
+                    </td>
+                </tr>
+
+                <tr class="inverse">
+                    <th class="col-xs-5">
+                        <h2>Expenses</h2>
+
+                        <p><%= expenses_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <h3>&pound<%= expenses.toLocaleString() %></h3>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('expenses') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Votes</h2>
+
+                        <p><%= votes_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <h3><%= votes_percentage %>&#37;</h3>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('votes_percentage') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Replies to letters</h2>
+
+                        <p><%= replies_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <% if (data_quality_indicator) { %>
+                        <h3><%= replies_percentage %>&#37;</h3>
+                        <% } %>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('replies_percentage') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Debates</h2>
+
+                        <p><%= debates_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <h3><%= debates %></h3>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('debates') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Q&amp;As</h2>
+
+                        <p><%= answers_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <% if (!govt) { %>
+                        <h3><%= answers %></h3>
+                        <% } %>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('answers') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Rebel votes</h2>
+
+                        <p><%= rebel_votes_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <h3><%= rebel_votes %></h3>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('rebel_votes') %>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="col-xs-5">
+                        <h2>Early day motions</h2>
+
+                        <p><%= edms_description() %></p>
+                    </th>
+                    <td class="col-xs-2">
+                        <% if (!govt) { %>
+                        <h3><%= edms %></h3>
+                        <% } %>
+                    </td>
+                    <td class="col-xs-1">
+                        <%= getStatus('edms') %>
+                    </td>
+                </tr>
+
+                </tbody>
+
+            </table>
+
+
+        </div>
+
+    </div>
+</script>
+
+<script type="text/template" id="mp-404">
+    <h1>Sorry, we could not find this MP</h1>
+</script>
+
+<script type="text/template" id="mplist-table">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th class="col-xs-3 mp-name" data-sort="string">Name</th>
+                        <th class="col-xs-3 mp-party" data-sort="string">Party</th>
+                        <th class="col-xs-3 mp-constituency" data-sort="string">Constituency</th>
+                        <th class="col-xs-1 mp-interests" data-sort="float">Interests</th>
+                        <th class="col-xs-1 mp-expenses" data-sort="float">Expenses</th>
+                        <th class="col-xs-1 mp-debates" data-sort="int">Debates</th>
+                        <th class="col-xs-1 mp-answers" data-sort="int">Q&amp;As</th>
+                        <th class="col-xs-1 mp-votes" data-sort="float">Votes</th>
+                        <th class="col-xs-1 mp-replies" data-sort="float">Replies</th>
+                        <th class="col-xs-1 mp-rebels" data-sort="float">Rebels</th>
+                        <th class="col-xs-1 mp-edms" data-sort="float">EDMS</th>
+                    </tr>
+                    </thead>
+                    <tbody data-item-view-container></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="text/template" id="mplist-row">
+    <td class="text-left <%= clsName %>" data-sort-value="<%= list_name %>"><a href="#mp/<%= id %>"><%= list_name %></a></td>
+    <td class="text-left" data-sort-value="<%= party %>"><%= party_short %></td>
+    <td class="text-left" data-sort-value="<%= constituency %>"><%= constituency %></td>
+    <td data-sort-value="<%= interests %>">&pound;<%= interests.toLocaleString() %></td>
+    <td data-sort-value="<%= expenses %>">&pound;<%= expenses.toLocaleString() %></td>
+    <td><%= debates %></td>
+    <td><%= answers %></td>
+    <td data-sort-value="<%= votes_percentage %>"><%= votes_percentage %>&#37;</td>
+    <td data-sort-value="<%= replies_percentage %>"><%= replies_percentage %>&#37;</td>
+    <td><%= rebel_votes %></td>
+    <td><%= edms %></td>
+</script>
+
+<script type="text/template" id="mplist-empty">
+    Sorry, no MPs found
+</script>
+
+<!-- Stats Page -->
+<script type="text/template" id="stats">
+
+    <div class="header">
+        <div class="container">
+            <div class="row">
+
+                <form>
+
+                    <div class="col-md-2">
+
+                    </div>
+
+                    <div class="col-xs-4">
+
+                        <select class="form-control" id="data-source">
+                            <option value="financial_interests" selected="selected">Financial interests</option>
+                            <option value="expenses">Expenses</option>
+                            <option value="debates">Debates</option>
+                            <option value="votes">Votes</option>
+                            <option value="answers">Answers</option>
+                            <option value="edms">Early Day Motions</option>
+                            <option value="rebel_votes">Rebel votes</option>
+                            <option value="replies">Replies to letters</option>
+                        </select>
+
+                    </div>
+
+                    <div class="col-xs-4 col-md-6">
+
+                        <fieldset id="average-or-total">
+                            <label for="type-total" class="radio-inline">
+                                <input type="radio" name="type" id="type-total" checked="checked" value="total">Party total
+                            </label>
+
+                            <label for="type-average" class="radio-inline">
+                                <input type="radio" name="type" id="type-average" value="average">Average per MP
+                            </label>
+                        </fieldset>
+
+                    </div>
+
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+
+
+        <div class="row">
+
+            <div class="col-xs-12">
+                <h2 id="graph-title">Total financial interests per party.</h2>
+
+                <div class="graph"></div>
+            </div>
+        </div>
+
+    </div>
+
+</script>
+
+<script type="text/template" id="about-page">
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-xs-12">
+
+                <div class="about-page-wrapper">
+
+
+                    <h1>About MP Report Card</h1>
+
+                    <div class="jumbotron">
+                        <p>Parliament has been dissolved and the election is just weeks away, but before we elect our next batch of representatives we thought it would be enlightening to take look
+                            back
+                            and see how well the current ones performed over the past five years.</p>
+
+                        <p>We have curated different sources of open government information to reveal which MPs have been doing the best job and are worth our vote.</p>
+                    </div>
+
+                    <h2>What information is being used?</h2>
+
+                    <h3>Financial Interests</h3>
+
+                    <p>Extra income declared by MPs in the Commons’ Register of Members’ Financial Interests, excluding party donations.</p>
+
+
+                    <h3>Expenses</h3>
+
+                    <p>The amount of expenses claimed by each MP during this parliament (2010-2015).</p>
+
+
+                    <h3>Votes</h3>
+
+                    <p>The number of times an MP has voted in a House of Commons division. This is provided as a percentage of the total divisions the MP could have voted in.</p>
+
+
+                    <h3>Replies to letters</h3>
+
+                    <p>The percentage of letters an MP responded to. This only for letters sent via WriteToThem.com in 2013.</p>
+
+
+                    <h3>Debates</h3>
+
+                    <p>The number of House of Commons debates an MP has spoken at.</p>
+
+
+                    <h3>Written Questions &amp; Answers</h3>
+
+                    <p>The number of answers to written questions an MP has received. MPs ask government ministers written questions to obtain information about policies and statistics on the
+                        activities
+                        of government departments.
+                    </p>
+
+
+                    <h3>Early Day Motions</h3>
+
+                    <p>EDMS are formal motions submitted for debate in the House of Commons. Few are actually debated, and are used instead to publicise the views of individual MPs or draw attention
+                        to
+                        specific events or campaigns.
+                    </p>
+
+                    <h2>Does it reflect an MP's work?</h2>
+
+                    <p>It is difficult to accurately quantify an MP's overall contribution by just bare statistics. However in lieu of more transparency from our MPs, we do believe they can provide a
+                        useful metric. Or at least a good starting point to start asking more questions. If an MP hasn't voted in any divisions or spoken in any debates, then why not? Are they
+                        representing their constituents in other ways?</p>
+
+                    <p>If an MP is making millions on the side from extra jobs and consultancies, are they still performing their duties properly?</p>
+
+                    <p>As Liz McInnes stated in the Members’ Paid Directorships and Consultancies parliamentary debate:</p>
+                    <blockquote>
+                        <p>We owe it to our constituents, and to the people who elected us, to do our job as an MP properly and effectively, to make it our only employment, and to concentrate fully on it — not to be distracted by paid roles as consultants and directors, which feeds the impression that being an MP is a part-time job</p>
+                        <footer>Liz McInnes MP,
+                            <cite><a target="_blank" href="http://www.theyworkforyou.com/debates/?id=2015-02-25a.381.0&s=%28section%3Adebates+section%3Awhall+section%3Alords+section%3Ani%29+speaker%3A25230#g409.0">Members’
+                            Paid Directorships and Consultancies, 25th February 2015.</a></cite>
+                        </footer>
+                    </blockquote>
+                    <p>On the other hand, some of that stats are biased and liable to misinterpretation. For example, there’s a clear pattern of MPs with the highest expenses representing constituencies furthest from Westminster. Government ministers do not submit Early Day Motions, and Sinn Fein MPs boycott parliament.</p>
+                        <p>As The Public Whip states:</p>
+                    <blockquote>
+                        <p>The apparent meaning of [rebellion and attendance figures] can be misleading..."Attendance" is for voting or telling in divisions. An MP may have a low attendance because they have abstained, have ministerial or other duties or they are the speaker. Perhaps they consider each division carefully, and only vote when they know about the subject.</p>
+                        <footer><cite><a href="http://www.publicwhip.org.uk/faq.php#clarify">The Public Whip</a></cite></footer>
+                    </blockquote>
+                    <p>There are many other metrics we would have liked to include, which would help provide a better representation of an MPs work. For example, how many surgeries has an MP held, and
+                        are
+                        they active in the communities they represent? Unfortunately this information is not yet available.</p>
+
+                    <p>This site is an experiment to show what’s possible with open data. It will be developed further over the course of the next parliament to make it a better indicator of our MP’s
+                        performance. If you have any comments or suggestions on how we should improve it, please do get in touch.</p>
+
+                    <h2>Where is the data from?</h2>
+                    <h3>Financial Interests</h3>
+
+                    <p>Financial Interests have been parsed from the latest <a target="_blank" href="http://www.publications.parliament.uk/pa/cm/cmregmem/contents1415.htm" target="_blank">House of Commons The Register of Members’ Financial Interests</a></p>
+
+                    <p>Our dataset is released under
+                        <a target="_blank" href="https://github.com/sparkd/mp-financial-interests">Creative Commons CC0</a>,
+                        or you can <a target="_blank" href="https://docs.google.com/spreadsheets/d/1j3IX-yGOZj1SUNMEs817v9egBPu5YJyVek26t3mGJqQ">view it online</a>.</p>
+
+                    <h3>Expenses</h3>
+
+                    <p>Expenses data parsed from <a target="_blank" href="http://www.parliamentary-standards.org.uk">Independent Parliamentary Standards Authority</a>.</p>
+
+                    <h3>Q&amp;As and Debates</h3>
+
+                    <p>Written questions and debates are extracted from Hansard Reports, and provided by <a target="_blank" href="http://parser.theyworkforyou.com/hansard.html">TheyWorkForYou</a>.</p>
+
+                    <h3>Votes</h3>
+                    <p>Voting data from <a target="_blank" href="http://www.publicwhip.org.uk/">The Public Whip</a>.</p>
+
+                    <h3>Replies to letters</h3>
+
+                    <p>MPs reply data monitored and provided by <a target="_blank" href="https://www.writetothem.com">WriteToThem</a>.</p>
+
+                    <h3>Early Day Motions</h3>
+
+                    <p>EDMS dataset from <a target="_blank" href="http://www.edms.org.uk/data/">edms.org.uk</a></p>
+
+                    <h2>How accurate is the data?</h2>
+                    <p>The data used is provided by other websites and open data sources, so we can make no guarantee as to their accuracy.</p>
+                    <p>We have scraped the financial interests directly from the House of Commons The Register of Members’ Financial Interests website.  We have endeavoured to make this as accurate as possible - but this process is never an exact science.  We have released the <a target="_blank" href="https://github.com/sparkd/mp-financial-interests">financial interests as open data</a>, so if you do spot an inconsistency <a href="mailto:hello@sparkd.com">please let us know so we can improve it</a>.</p>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+</script>
+
+
+<!-- Dependencies -->
+<!-- FIXME: Use MIN -->
+<script src="vendor/bower/jquery/dist/jquery.min.js"></script>
+<script src="vendor/bower/underscore/underscore.js"></script>
+<script src="vendor/bower/backbone/backbone.js"></script>
+<script src="vendor/bower/marionette/lib/backbone.marionette.min.js"></script>
+<script src="vendor/bower/devbridge-autocomplete/dist/jquery.autocomplete.min.js"></script>
+<script src="vendor/stupidtable.min.js"></script>
+<script src="vendor/bower/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="vendor/bower/d3/d3.min.js"></script>
+<script src="vendor/bower/d3-tip/index.js"></script>
+<script src="vendor/bower/approximate-number/lib/approximate-number.js"></script>
+
+<!-- App and Helpers -->
+<script src="js/App.js"></script>
+<script src="js/helpers/SubAppManager.js"></script>
+<script src="js/Router.js"></script>
+
+<!-- Data -->
+<script src="js/modules/Data/models/MP.js"></script>
+<script src="js/modules/Data/models/MPs.js"></script>
+<script src="js/modules/Data/models/Stats.js"></script>
+<script src="js/modules/Data/index.js"></script>
+
+<!-- Modules -->
+<script src="js/modules/MPList/views/RowView.js"></script>
+<script src="js/modules/MPList/views/EmptyView.js"></script>
+<script src="js/modules/MPList/views/TableView.js"></script>
+<script src="js/modules/MPList/Controller.js"></script>
+<script src="js/modules/MPList/Router.js"></script>
+<script src="js/modules/MPList/index.js"></script>
+
+<script src="js/modules/Page/views/IndexView.js"></script>
+<script src="js/modules/Page/views/AboutView.js"></script>
+<script src="js/modules/Page/Controller.js"></script>
+<script src="js/modules/Page/Router.js"></script>
+<script src="js/modules/Page/index.js"></script>
+
+<script src="js/modules/MP/views/MPView.js"></script>
+<script src="js/modules/MP/Controller.js"></script>
+<script src="js/modules/MP/Router.js"></script>
+<script src="js/modules/MP/index.js"></script>
+
+<script src="js/modules/Stats/views/StatsView.js"></script>
+<script src="js/modules/Stats/Controller.js"></script>
+<script src="js/modules/Stats/Router.js"></script>
+<script src="js/modules/Stats/index.js"></script>
+
+<script src="js/modules/Search/views/SearchView.js"></script>
+
+<!-- Source data -->
+<script src="src/data.js"></script>
+
+<!-- Init -->
+<script src="js/initialize.js"></script>
+
+<!-- GA -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-62134819-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>
