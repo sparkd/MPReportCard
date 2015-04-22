@@ -27,6 +27,11 @@ h4 {
 
 .mp .header .image {
   display: none; }
+.mp table th p {
+  margin-right: 10px; }
+.mp table th p,
+.mp table th h2 {
+  margin-left: 10px; }
 
 .about-page-wrapper {
   max-width: 100%; }

@@ -41,9 +41,20 @@ h4 {
 
 }
 
-.mp .header .image {
-  display: none;
-}
+.mp {
+
+  .header .image {
+    display: none;
+    }
+    table th p{
+    margin-right: 10px;    
+    }
+    table th p,
+    table th h2{
+    margin-left: 10px;
+    }
+    
+ }
 
 .about-page-wrapper {
   max-width: 100%;
