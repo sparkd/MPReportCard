@@ -13,6 +13,7 @@ App.module('Page', function (Page) {
             $('#navbar-collapse li').removeClass('active');
             $('body').addClass('no-footer');
             window.scrollTo(0,0);
+            $('#navbar-collapse').collapse('hide');
         },
 
         remove: function () {

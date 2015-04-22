@@ -10,6 +10,7 @@ App.module('Page', function (Page) {
             $('#navbar-collapse li').removeClass('active');
             $('#navbar-collapse li a[href="#about"]').parent().addClass('active');
             window.scrollTo(0,0);
+            $('#navbar-collapse').collapse('hide');
         }
     });
 });
