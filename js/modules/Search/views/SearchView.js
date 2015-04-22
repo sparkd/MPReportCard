@@ -14,9 +14,9 @@ App.module('Search', function (Search) {
                 serviceUrl: function (q) {
                     // Redirect to postcode if string contains number
                     if (q.length > 2 && q.match(/\d+/g) != null) {
-                        return "http://127.0.0.1:8931/postcode"
+                        return "http://74.50.59.248/postcode"
                     } else {
-                        return "http://127.0.0.1:8931/mp"
+                        return "http://74.50.59.248/mp"
                     }
                 },
                 dataType: "jsonp",
