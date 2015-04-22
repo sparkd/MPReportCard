@@ -7,6 +7,7 @@ $light-grey-text: lighten($grey-text, 20);
 
 $light-grey-bg: #F6F6F6;
 $black: #000;
+$green: #7A7F51;
 
 // Party colours
 $labour-color: #E00600;
@@ -30,6 +31,7 @@ $traffic-light-red: #F86C00;
 html, body {
   width: 100%;
   height: 100%;
+  color: $grey-text;
 }
 
 h1, h2, h3 {
@@ -720,17 +722,23 @@ footer {
     text-transform: none;
     margin-top: 30px;
     margin-bottom: 6px;
+    color: $green;
   }
+
 
   blockquote{
     font-size: 14px;
-    color: darken($grey-text, 20);
+    padding: 10px;
+    color: $green;
     footer{
       background: transparent;
-      color: $black;
+      color: #777;
       a{
-        color: $black;
+        color: #777;
         text-decoration: underline;
+        &:hover{
+          color: $black!important;
+        }
       }
     }
 
