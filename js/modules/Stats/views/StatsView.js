@@ -170,11 +170,11 @@ App.module('Stats', function (Stats) {
 
         onRender: function () {
 
+            window.scrollTo(0,0);
             // Make parties page item active
             $('#navbar-collapse li').removeClass('active');
             $('#navbar-collapse li a[href="#stats"]').parent().addClass('active');
-            $('#navbar-collapse').collapse('hide');
-
+            
             // http://hdnrnzk.me/2012/07/04/creating-a-bar-graph-using-d3js/
 
             // By default, we want to use the financial interests

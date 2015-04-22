@@ -9,10 +9,10 @@ App.module('Page', function (Page) {
             this.search.show(new App.Search.SearchView({placeholder: 'Enter MP\'s name, constituency or postcode'}))
         },
         onRender: function () {
+            window.scrollTo(0,0);
             // Make no page active
             $('#navbar-collapse li').removeClass('active');
             $('body').addClass('no-footer');
-            $('#navbar-collapse').collapse('hide');
         },
 
         remove: function () {

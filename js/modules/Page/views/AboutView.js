@@ -6,10 +6,10 @@ App.module('Page', function (Page) {
             search: "#home-search"
         },
         onRender: function () {
+            window.scrollTo(0,0);
             // Make mp page item active
             $('#navbar-collapse li').removeClass('active');
             $('#navbar-collapse li a[href="#about"]').parent().addClass('active');
-            $('#navbar-collapse').collapse('hide');
         }
     });
 });
