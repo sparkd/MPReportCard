@@ -7,3 +7,5 @@
 /*-- Application stylesheets. -----------------------------------------------*/
 
 @import "app.css";
+
+@import "mobile.css" (max-width:600px);

@@ -1,0 +1,54 @@
+h1 {
+  font-size: 20px !important;
+}
+
+h2, .navbar .navbar-brand{
+  font-size: 18px !important;
+}
+
+h3 {
+  font-size: 16px !important;
+}
+
+h4 {
+  font-size: 14px !important;
+}
+
+
+
+.home .full {
+
+  section #home-search form {
+    input {
+      height: 40px;
+      font-size: 1.2em;
+    }
+    span.glyphicon-search {
+      font-size: 16px;
+    }
+
+  }
+
+  section:nth-child(3) {
+    display: none
+  }
+
+}
+
+.mp .header .image {
+  display: none;
+}
+
+.about-page-wrapper {
+  max-width: 100%;
+  .jumbotron {
+    padding: 10px 15px;
+  }
+}
+
+.stats .header form {
+  select,
+  fieldset label {
+    font-size: 12px;
+  }
+}
