@@ -2,6 +2,7 @@ App.module('Page', function (Page) {
     Page.Controller = Marionette.Controller.extend({
         // When the module stops, we need to clean up our views
         hide: function () {
+            $('#navbar-collapse').collapse('hide'); 
             App.body.close();
             this.view = null;
         },

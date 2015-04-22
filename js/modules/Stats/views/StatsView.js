@@ -173,7 +173,6 @@ App.module('Stats', function (Stats) {
             // Make parties page item active
             $('#navbar-collapse li').removeClass('active');
             $('#navbar-collapse li a[href="#stats"]').parent().addClass('active');
-            window.scrollTo(0,0);
             $('#navbar-collapse').collapse('hide');
 
             // http://hdnrnzk.me/2012/07/04/creating-a-bar-graph-using-d3js/

@@ -12,7 +12,6 @@ App.module('Page', function (Page) {
             // Make no page active
             $('#navbar-collapse li').removeClass('active');
             $('body').addClass('no-footer');
-            window.scrollTo(0,0);
             $('#navbar-collapse').collapse('hide');
         },
 

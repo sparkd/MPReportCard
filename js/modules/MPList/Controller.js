@@ -7,6 +7,7 @@ App.module('MPList', function (MPList) {
         },
         // When the module stops, we need to clean up our views
         hide: function () {
+            $('#navbar-collapse').collapse('hide');   
             App.body.close();
             this.data = this.view = null;
         },

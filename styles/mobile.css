@@ -10,13 +10,18 @@ h3 {
 h4 {
   font-size: 14px !important; }
 
-.home .full section #home-search form {
-  min-width: 380px; }
-  .home .full section #home-search form input {
-    height: 40px;
-    font-size: 1.2em; }
-  .home .full section #home-search form span.glyphicon-search {
-    font-size: 16px; }
+.home .full section #home-search {
+  width: 100%; }
+  .home .full section #home-search form {
+    min-width: 90%;
+    margin: 0 auto; }
+    .home .full section #home-search form input {
+      min-width: 100%;
+      height: 40px;
+      font-size: 1em; }
+    .home .full section #home-search form span.glyphicon-search {
+      font-size: 14px;
+      right: 8px; }
 .home .full section:nth-child(3) {
   display: none; }
 

@@ -117,8 +117,6 @@ App.module('MP', function (MP) {
             // Make mp page item active
             $('#navbar-collapse li').removeClass('active');
             $('#navbar-collapse li a[href="#mp"]').parent().addClass('active');
-            window.scrollTo(0,0);
-            $('#navbar-collapse').collapse('hide');
         }
     });
 });

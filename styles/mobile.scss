@@ -15,17 +15,24 @@ h4 {
 }
 
 .home .full {
-  section #home-search form {
-    min-width: 380px;
+
+  section #home-search{
+  width: 100%;
+  form {
+    min-width: 90%;
+    margin: 0 auto;
     input {
+      min-width: 100%;
       height: 40px;
-      font-size: 1.2em;
+      font-size: 1em;
 
     }
     span.glyphicon-search {
-      font-size: 16px;
+      font-size: 14px;
+      right: 8px
     }
 
+  }
   }
 
   section:nth-child(3) {

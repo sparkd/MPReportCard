@@ -4,6 +4,7 @@ App.module('MP', function (MP) {
         hide: function () {
             App.body.close();
             this.data = this.view = null;
+            $('#navbar-collapse').collapse('hide');            
         },
         // Show this MP
         showMP: function (id) {

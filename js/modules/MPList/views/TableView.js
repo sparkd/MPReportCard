@@ -5,11 +5,8 @@ App.module('MPList', function (MPList) {
         itemView: MPList.RowView,
         itemViewContainer: '[data-item-view-container]',
         emptyView: MPList.EmptyView,
-      initialize: function () {
-        window.scrollTo(0,0);
-        $('#navbar-collapse').collapse('hide');        
-      },
         onRender: function () {
+            window.scrollTo(0,0);
             // Make mp page item active
             $('#navbar-collapse li').removeClass('active');
             $('#navbar-collapse li a[href="#mp"]').parent().addClass('active');
