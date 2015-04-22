@@ -61,16 +61,6 @@ App.module('Search', function (Search) {
                 onSelect: function (suggestion) {
                     this.value = ''
                     Backbone.history.navigate('mp/' + suggestion.data, { trigger: true, replace: true});
-                },
-                onSearchError: function (query, jqXHR, textStatus, errorThrown) {
-
-                    if(!($(this).siblings('.autocomplete-error').length)){
-                        $(this).after($('<div class="autocomplete-error"></div>')
-                            .html('Sorry, there was an error searching for MPs.  Please try again later.')
-                        )
-                    }
-
-
                 }
 
             })
