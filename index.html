@@ -130,7 +130,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-7">
-                    <div class="image"><img class="img-responsive" src="/src/images/<%= id %>.jpg" alt="<%= name %>"></div>
+                    <div class="image"><img class="img-responsive" src="/img/mps/<%= id %>.jpg" alt="<%= name %>"></div>
                     <h1 class="<% if (post) { %>with-post<% } %>"><%= name %></h1>
 
 
@@ -526,62 +526,8 @@
 
 </script>
 
-
-<!-- Dependencies -->
-<!-- FIXME: Use MIN -->
-<script src="vendor/bower/jquery/dist/jquery.min.js"></script>
-<script src="vendor/bower/underscore/underscore.js"></script>
-<script src="vendor/bower/backbone/backbone.js"></script>
-<script src="vendor/bower/marionette/lib/backbone.marionette.min.js"></script>
-<script src="vendor/bower/devbridge-autocomplete/dist/jquery.autocomplete.min.js"></script>
-<script src="vendor/stupidtable.min.js"></script>
-<script src="vendor/bower/bootstrap/dist/js/bootstrap.min.js"></script>
-<script src="vendor/bower/d3/d3.min.js"></script>
-<script src="vendor/bower/d3-tip/index.js"></script>
-<script src="vendor/bower/approximate-number/lib/approximate-number.js"></script>
-
-<!-- App and Helpers -->
-<script src="js/App.js"></script>
-<script src="js/helpers/SubAppManager.js"></script>
-<script src="js/Router.js"></script>
-
-<!-- Data -->
-<script src="js/modules/Data/models/MP.js"></script>
-<script src="js/modules/Data/models/MPs.js"></script>
-<script src="js/modules/Data/models/Stats.js"></script>
-<script src="js/modules/Data/index.js"></script>
-
-<!-- Modules -->
-<script src="js/modules/MPList/views/RowView.js"></script>
-<script src="js/modules/MPList/views/EmptyView.js"></script>
-<script src="js/modules/MPList/views/TableView.js"></script>
-<script src="js/modules/MPList/Controller.js"></script>
-<script src="js/modules/MPList/Router.js"></script>
-<script src="js/modules/MPList/index.js"></script>
-
-<script src="js/modules/Page/views/IndexView.js"></script>
-<script src="js/modules/Page/views/AboutView.js"></script>
-<script src="js/modules/Page/Controller.js"></script>
-<script src="js/modules/Page/Router.js"></script>
-<script src="js/modules/Page/index.js"></script>
-
-<script src="js/modules/MP/views/MPView.js"></script>
-<script src="js/modules/MP/Controller.js"></script>
-<script src="js/modules/MP/Router.js"></script>
-<script src="js/modules/MP/index.js"></script>
-
-<script src="js/modules/Stats/views/StatsView.js"></script>
-<script src="js/modules/Stats/Controller.js"></script>
-<script src="js/modules/Stats/Router.js"></script>
-<script src="js/modules/Stats/index.js"></script>
-
-<script src="js/modules/Search/views/SearchView.js"></script>
-
-<!-- Source data -->
-<script src="src/data.js"></script>
-
 <!-- Init -->
-<script src="js/initialize.js"></script>
+<script src="dist/all.min.js"></script>
 
 <!-- GA -->
 <script>
