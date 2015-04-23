@@ -12,11 +12,7 @@ App.module('Page', function (Page) {
             window.scrollTo(0,0);
             // Make no page active
             $('#navbar-collapse li').removeClass('active');
-            $('body').addClass('no-footer');
-        },
-
-        remove: function () {
-            $('body').removeClass('no-footer');
+            $('#footer').hide();
         }
     });
 });

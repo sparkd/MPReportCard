@@ -170,6 +170,7 @@ App.module('Stats', function (Stats) {
 
         onRender: function () {
 
+            $('#footer').show();
             window.scrollTo(0,0);
             // Make parties page item active
             $('#navbar-collapse li').removeClass('active');

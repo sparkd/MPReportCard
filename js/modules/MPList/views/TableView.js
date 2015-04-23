@@ -6,6 +6,7 @@ App.module('MPList', function (MPList) {
         itemViewContainer: '[data-item-view-container]',
         emptyView: MPList.EmptyView,
         onRender: function () {
+            $('#footer').show();
             window.scrollTo(0,0);
             // Make mp page item active
             $('#navbar-collapse li').removeClass('active');

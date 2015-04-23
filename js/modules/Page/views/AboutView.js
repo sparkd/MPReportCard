@@ -6,6 +6,7 @@ App.module('Page', function (Page) {
             search: "#home-search"
         },
         onRender: function () {
+            $('#footer').show();
             window.scrollTo(0,0);
             // Make mp page item active
             $('#navbar-collapse li').removeClass('active');
