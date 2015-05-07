@@ -249,6 +249,29 @@ a.external:after {
       bottom: 8px;
       z-index: 1000;
     }
+
+    #holding{
+
+      position: absolute;
+      top: 50%;
+      margin-top: -120px;
+      width: 100%;
+
+      div{
+        border: 1px solid #fff;
+        font-size: 18px;
+        color: #fff;
+        margin: 0 auto;
+        width: 50%;
+        max-width: 600px;
+        min-width: 200px;
+        padding: 10px 15px 5px 15px;
+        font-weight: normal;
+      }
+
+
+    }
+
   }
 
 }
@@ -541,6 +564,15 @@ a.external:after {
 
     }
 
+  }
+  
+  .mp-warning{
+    background:$light-grey-bg;
+    max-width: 600px;
+    min-width: 200px;
+    margin: 30px auto;
+    font-size: 12px;
+    padding: 15px;
   }
 
 }
